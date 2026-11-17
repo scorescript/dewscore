@@ -117,9 +117,7 @@ def mapa(tab, feats, can):
         ax.set_xticks([]); ax.set_yticks([]); ax.set_title(LAB[col])
         for s in ax.spines.values(): s.set_visible(False)
         fig.colorbar(plt.cm.ScalarMappable(norm=nm, cmap=cmap), ax=ax, fraction=0.04, pad=0.01, extend="both")
-    fig.text(0.5, 0.01, "Grey: no eligible station within 30 km or no accepted year. Hatched: low representativeness (|dz| > 300 m or d > 15 km). "
-             "Colour scale clipped at the 2nd and 98th percentiles. Canary Islands shown in the inset box.", ha="center", fontsize=8)
-    fig.tight_layout(rect=(0, 0.02, 1, 1))
+    fig.tight_layout()
     for ext in ("png", "pdf"):
         fig.savefig(FIG / f"mapa_espana.{ext}", dpi=200)
     plt.close(fig)
@@ -213,21 +211,21 @@ def tablas(tab):
     fig.tight_layout()
     for ext in ("png", "pdf"): fig.savefig(FIG / f"representatividad_espana.{ext}", dpi=200)
     plt.close(fig)
-    fig, axs = plt.subplots(2, 2, figsize=(12, 8.2))
     order = list(Cf.sort_values("DF").c)
+    for suf, pair in (("a", IND[:2]), ("b", IND[2:])):
+        fig, axs = plt.subplots(1, 2, figsize=(12, 5.6))
+        for ax, k in zip(axs, pair):
+            data = [d[d.comunidad.map(lambda c: SHORT.get(c, c)) == c][k].dropna() for c in order]
+            ax.boxplot(data, vert=False, tick_labels=order, showfliers=False, medianprops=dict(color="k"), boxprops=dict(color="#4c78a8"), whiskerprops=dict(color="#4c78a8"))
+            ax.set_xlabel(LAB[k], fontsize=10); ax.tick_params(axis="y", labelsize=9); ax.tick_params(axis="x", labelsize=9)
+        fig.tight_layout()
+        for ext in ("png", "pdf"): fig.savefig(FIG / f"comunidades_cajas_{suf}.{ext}", dpi=200)
+        plt.close(fig)
+    fig, axs = plt.subplots(2, 2, figsize=(12, 9))
     for ax, k in zip(axs.ravel(), IND):
-        data = [d[d.comunidad.map(lambda c: SHORT.get(c, c)) == c][k].dropna() for c in order]
-        ax.boxplot(data, vert=False, labels=order, showfliers=False, medianprops=dict(color="k"), boxprops=dict(color="#4c78a8"), whiskerprops=dict(color="#4c78a8"))
-        ax.set_xlabel(LAB[k]); ax.tick_params(axis="y", labelsize=7)
-    fig.tight_layout()
-    for ext in ("png", "pdf"): fig.savefig(FIG / f"comunidades_cajas.{ext}", dpi=200)
-    plt.close(fig)
-    fig, axs = plt.subplots(1, 4, figsize=(15, 4.6))
-    for ax, k in zip(axs, IND):
         st = ok.groupby("estacion").agg(v=(k, "first"), n=(k, "size"), prov=("isla", "first")).sort_values("v", ascending=False).head(12).iloc[::-1]
         ax.barh([f"{nm.get(c, c)} ({p}) [{n}]" for c, p, n in zip(st.index, st.prov, st.n)], st.v, color="#4c78a8")
-        ax.set_xlabel(LAB[k]); ax.tick_params(axis="y", labelsize=6.2)
-    fig.text(0.5, -0.01, "Stations ranked by their multi-year mean; [n] = municipalities assigned to the station (not flagged for low representativeness, >= 10 accepted years).", ha="center", fontsize=7.5)
+        ax.set_xlabel(LAB[k], fontsize=10); ax.tick_params(axis="y", labelsize=8.5); ax.tick_params(axis="x", labelsize=9)
     fig.tight_layout()
     for ext in ("png", "pdf"): fig.savefig(FIG / f"rankings_espana.{ext}", dpi=200)
     plt.close(fig)
@@ -250,11 +248,11 @@ def sens_y_tend():
     f = HERE / "tendencias_estacion.csv"
     if f.exists():
         t = pd.read_csv(f); ks = ["DF", "CFI", "HHF", "AWVC_g_m3"]
-        fig, axs = plt.subplots(1, 4, figsize=(12.5, 3.2))
-        for ax, k in zip(axs, ks):
+        fig, axs = plt.subplots(2, 2, figsize=(9, 6.6))
+        for ax, k in zip(axs.ravel(), ks):
             g = t[t.indicador == k]; ax.hist(g.sen_por_decada, bins=40, color="#4c78a8"); ax.axvline(0, color="k", lw=0.8)
             ax.set_xlabel(f"Sen slope of {k.replace('_g_m3', '')} (per decade)")
-        axs[0].set_ylabel("Stations"); fig.tight_layout()
+        axs[0, 0].set_ylabel("Stations"); axs[1, 0].set_ylabel("Stations"); fig.tight_layout()
         for ext in ("png", "pdf"): fig.savefig(FIG / f"tendencias_espana.{ext}", dpi=200)
         plt.close(fig)
 
