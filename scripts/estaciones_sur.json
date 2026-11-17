@@ -1,0 +1,2002 @@
+[
+ {
+  "indicativo": "4007Y",
+  "nombre": "OSSA DE MONTIEL",
+  "provincia": "ALBACETE",
+  "lat": 38.965833,
+  "lon": -2.745,
+  "altitud": 905.0
+ },
+ {
+  "indicativo": "4064Y",
+  "nombre": "ALCAZAR DE SAN JUAN",
+  "provincia": "CIUDAD REAL",
+  "lat": 39.390833,
+  "lon": -3.215833,
+  "altitud": 640.0
+ },
+ {
+  "indicativo": "4091Y",
+  "nombre": "VILLARROBLEDO",
+  "provincia": "ALBACETE",
+  "lat": 39.261944,
+  "lon": -2.5925,
+  "altitud": 718.0
+ },
+ {
+  "indicativo": "4096Y",
+  "nombre": "MUNERA",
+  "provincia": "ALBACETE",
+  "lat": 39.016667,
+  "lon": -2.488889,
+  "altitud": 918.0
+ },
+ {
+  "indicativo": "4103X",
+  "nombre": "TOMELLOSO",
+  "provincia": "CIUDAD REAL",
+  "lat": 39.169167,
+  "lon": -3.0075,
+  "altitud": 662.0
+ },
+ {
+  "indicativo": "4116I",
+  "nombre": "ALMAGRO/FAMET",
+  "provincia": "CIUDAD REAL",
+  "lat": 38.950833,
+  "lon": -3.741944,
+  "altitud": 626.0
+ },
+ {
+  "indicativo": "4121",
+  "nombre": "CIUDAD REAL",
+  "provincia": "CIUDAD REAL",
+  "lat": 38.989167,
+  "lon": -3.920278,
+  "altitud": 626.0
+ },
+ {
+  "indicativo": "4121C",
+  "nombre": "CIUDAD REAL, INSTITUTO",
+  "provincia": "CIUDAD REAL",
+  "lat": 38.987778,
+  "lon": -3.929167,
+  "altitud": 627.0
+ },
+ {
+  "indicativo": "4138Y",
+  "nombre": "VILLANUEVA DE LOS INFANTES",
+  "provincia": "CIUDAD REAL",
+  "lat": 38.7375,
+  "lon": -3.004444,
+  "altitud": 900.0
+ },
+ {
+  "indicativo": "4147X",
+  "nombre": "VALDEPEÑAS",
+  "provincia": "CIUDAD REAL",
+  "lat": 38.750556,
+  "lon": -3.391389,
+  "altitud": 700.0
+ },
+ {
+  "indicativo": "4148",
+  "nombre": "VISO DEL MARQUÉS",
+  "provincia": "CIUDAD REAL",
+  "lat": 38.518056,
+  "lon": -3.566667,
+  "altitud": 804.0
+ },
+ {
+  "indicativo": "4193Y",
+  "nombre": "EL ROBLEDO",
+  "provincia": "CIUDAD REAL",
+  "lat": 39.216944,
+  "lon": -4.282778,
+  "altitud": 587.0
+ },
+ {
+  "indicativo": "4195E",
+  "nombre": "ALCORNOQUERA, PARQUE NACIONAL CABAÑEROS",
+  "provincia": "CIUDAD REAL",
+  "lat": 39.320833,
+  "lon": -4.395,
+  "altitud": 651.0
+ },
+ {
+  "indicativo": "4210Y",
+  "nombre": "ABENÓJAR",
+  "provincia": "CIUDAD REAL",
+  "lat": 38.898056,
+  "lon": -4.291944,
+  "altitud": 718.0
+ },
+ {
+  "indicativo": "4220X",
+  "nombre": "PUEBLA DE DON RODRIGO",
+  "provincia": "CIUDAD REAL",
+  "lat": 39.083611,
+  "lon": -4.621944,
+  "altitud": 533.0
+ },
+ {
+  "indicativo": "4244X",
+  "nombre": "HERRERA DEL DUQUE",
+  "provincia": "BADAJOZ",
+  "lat": 39.169444,
+  "lon": -5.062222,
+  "altitud": 447.0
+ },
+ {
+  "indicativo": "4260",
+  "nombre": "PERALEDA DEL ZAUCEJO",
+  "provincia": "BADAJOZ",
+  "lat": 38.479722,
+  "lon": -5.5775,
+  "altitud": 542.0
+ },
+ {
+  "indicativo": "4263X",
+  "nombre": "VALSEQUILLO",
+  "provincia": "CORDOBA",
+  "lat": 38.409444,
+  "lon": -5.350556,
+  "altitud": 575.0
+ },
+ {
+  "indicativo": "4267X",
+  "nombre": "HINOJOSA DEL DUQUE",
+  "provincia": "CORDOBA",
+  "lat": 38.498611,
+  "lon": -5.121389,
+  "altitud": 551.0
+ },
+ {
+  "indicativo": "4300Y",
+  "nombre": "ALMADÉN",
+  "provincia": "CIUDAD REAL",
+  "lat": 38.775278,
+  "lon": -4.845278,
+  "altitud": 535.0
+ },
+ {
+  "indicativo": "4325Y",
+  "nombre": "CASTUERA",
+  "provincia": "BADAJOZ",
+  "lat": 38.741944,
+  "lon": -5.529167,
+  "altitud": 459.0
+ },
+ {
+  "indicativo": "4339X",
+  "nombre": "CAÑAMERO",
+  "provincia": "CACERES",
+  "lat": 39.314167,
+  "lon": -5.368889,
+  "altitud": 590.0
+ },
+ {
+  "indicativo": "4340",
+  "nombre": "NAVALVILLAR DE PELA",
+  "provincia": "BADAJOZ",
+  "lat": 39.103333,
+  "lon": -5.461389,
+  "altitud": 313.0
+ },
+ {
+  "indicativo": "4347X",
+  "nombre": "ZORITA",
+  "provincia": "CACERES",
+  "lat": 39.282778,
+  "lon": -5.710278,
+  "altitud": 413.0
+ },
+ {
+  "indicativo": "4358X",
+  "nombre": "DON BENITO",
+  "provincia": "BADAJOZ",
+  "lat": 38.955556,
+  "lon": -5.880556,
+  "altitud": 274.0
+ },
+ {
+  "indicativo": "4362X",
+  "nombre": "RETAMAL DE LLERENA",
+  "provincia": "BADAJOZ",
+  "lat": 38.576389,
+  "lon": -5.845833,
+  "altitud": 474.0
+ },
+ {
+  "indicativo": "4386B",
+  "nombre": "LLERENA",
+  "provincia": "BADAJOZ",
+  "lat": 38.231667,
+  "lon": -6.016944,
+  "altitud": 655.0
+ },
+ {
+  "indicativo": "4395X",
+  "nombre": "VILLAFRANCA DE LOS BARROS",
+  "provincia": "BADAJOZ",
+  "lat": 38.551667,
+  "lon": -6.306667,
+  "altitud": 430.0
+ },
+ {
+  "indicativo": "4410X",
+  "nombre": "MÉRIDA",
+  "provincia": "BADAJOZ",
+  "lat": 38.915833,
+  "lon": -6.385556,
+  "altitud": 228.0
+ },
+ {
+  "indicativo": "4411C",
+  "nombre": "ALCUESCAR",
+  "provincia": "CACERES",
+  "lat": 39.1975,
+  "lon": -6.231111,
+  "altitud": 467.0
+ },
+ {
+  "indicativo": "4427X",
+  "nombre": "ZAFRA",
+  "provincia": "BADAJOZ",
+  "lat": 38.425833,
+  "lon": -6.436667,
+  "altitud": 433.0
+ },
+ {
+  "indicativo": "4436Y",
+  "nombre": "ALMENDRALEJO",
+  "provincia": "BADAJOZ",
+  "lat": 38.688889,
+  "lon": -6.361111,
+  "altitud": 371.0
+ },
+ {
+  "indicativo": "4452",
+  "nombre": "BADAJOZ AEROPUERTO",
+  "provincia": "BADAJOZ",
+  "lat": 38.883333,
+  "lon": -6.813889,
+  "altitud": 186.0
+ },
+ {
+  "indicativo": "4464X",
+  "nombre": "ALBURQUERQUE",
+  "provincia": "BADAJOZ",
+  "lat": 39.181944,
+  "lon": -6.995278,
+  "altitud": 283.0
+ },
+ {
+  "indicativo": "4468X",
+  "nombre": "PUEBLA DE OBANDO",
+  "provincia": "BADAJOZ",
+  "lat": 39.176667,
+  "lon": -6.600833,
+  "altitud": 392.0
+ },
+ {
+  "indicativo": "4478X",
+  "nombre": "BADAJOZ",
+  "provincia": "BADAJOZ",
+  "lat": 38.886111,
+  "lon": -7.009444,
+  "altitud": 174.0
+ },
+ {
+  "indicativo": "4486X",
+  "nombre": "OLIVENZA",
+  "provincia": "BADAJOZ",
+  "lat": 38.6975,
+  "lon": -7.084444,
+  "altitud": 275.0
+ },
+ {
+  "indicativo": "4489X",
+  "nombre": "ALCONCHEL",
+  "provincia": "BADAJOZ",
+  "lat": 38.484722,
+  "lon": -7.281944,
+  "altitud": 170.0
+ },
+ {
+  "indicativo": "4492F",
+  "nombre": "BARCARROTA",
+  "provincia": "BADAJOZ",
+  "lat": 38.472778,
+  "lon": -6.923333,
+  "altitud": 377.0
+ },
+ {
+  "indicativo": "4497X",
+  "nombre": "VILLANUEVA DEL FRESNO",
+  "provincia": "BADAJOZ",
+  "lat": 38.372222,
+  "lon": -7.158056,
+  "altitud": 247.0
+ },
+ {
+  "indicativo": "4499X",
+  "nombre": "MONESTERIO",
+  "provincia": "BADAJOZ",
+  "lat": 38.081389,
+  "lon": -6.271944,
+  "altitud": 771.0
+ },
+ {
+  "indicativo": "4501X",
+  "nombre": "FUENTE DE CANTOS",
+  "provincia": "BADAJOZ",
+  "lat": 38.208611,
+  "lon": -6.311389,
+  "altitud": 602.0
+ },
+ {
+  "indicativo": "4511C",
+  "nombre": "JEREZ DE LOS CABALLEROS",
+  "provincia": "BADAJOZ",
+  "lat": 38.298611,
+  "lon": -6.765,
+  "altitud": 381.0
+ },
+ {
+  "indicativo": "4520X",
+  "nombre": "FREGENAL DE LA SIERRA",
+  "provincia": "BADAJOZ",
+  "lat": 38.178333,
+  "lon": -6.661667,
+  "altitud": 586.0
+ },
+ {
+  "indicativo": "4527X",
+  "nombre": "AROCHE",
+  "provincia": "HUELVA",
+  "lat": 37.980278,
+  "lon": -6.975833,
+  "altitud": 267.0
+ },
+ {
+  "indicativo": "4541X",
+  "nombre": "EL GRANADO",
+  "provincia": "HUELVA",
+  "lat": 37.553611,
+  "lon": -7.52,
+  "altitud": 60.0
+ },
+ {
+  "indicativo": "4549Y",
+  "nombre": "AYAMONTE",
+  "provincia": "HUELVA",
+  "lat": 37.194722,
+  "lon": -7.395,
+  "altitud": 3.0
+ },
+ {
+  "indicativo": "4554X",
+  "nombre": "CARTAYA",
+  "provincia": "HUELVA",
+  "lat": 37.218333,
+  "lon": -7.083611,
+  "altitud": 15.0
+ },
+ {
+  "indicativo": "4560Y",
+  "nombre": "ALAJAR",
+  "provincia": "HUELVA",
+  "lat": 37.868611,
+  "lon": -6.675,
+  "altitud": 572.0
+ },
+ {
+  "indicativo": "4575X",
+  "nombre": "VALVERDE DEL CAMINO",
+  "provincia": "HUELVA",
+  "lat": 37.575278,
+  "lon": -6.767778,
+  "altitud": 280.0
+ },
+ {
+  "indicativo": "4584X",
+  "nombre": "EL CERRO DE ANDÉVALO",
+  "provincia": "HUELVA",
+  "lat": 37.731667,
+  "lon": -6.942222,
+  "altitud": 270.0
+ },
+ {
+  "indicativo": "4589X",
+  "nombre": "ALOSNO, THARSIS",
+  "provincia": "HUELVA",
+  "lat": 37.597778,
+  "lon": -7.119444,
+  "altitud": 276.0
+ },
+ {
+  "indicativo": "4605",
+  "nombre": "HUELVA",
+  "provincia": "HUELVA",
+  "lat": 37.256667,
+  "lon": -6.949722,
+  "altitud": 17.0
+ },
+ {
+  "indicativo": "4608X",
+  "nombre": "EL CAMPILLO",
+  "provincia": "HUELVA",
+  "lat": 37.677222,
+  "lon": -6.63,
+  "altitud": 415.0
+ },
+ {
+  "indicativo": "4622X",
+  "nombre": "VILLARRASA",
+  "provincia": "HUELVA",
+  "lat": 37.450833,
+  "lon": -6.636667,
+  "altitud": 145.0
+ },
+ {
+  "indicativo": "4642E",
+  "nombre": "HUELVA, RONDA ESTE",
+  "provincia": "HUELVA",
+  "lat": 37.278333,
+  "lon": -6.911667,
+  "altitud": 18.0
+ },
+ {
+  "indicativo": "5000A",
+  "nombre": "CEUTA, MONTE HACHO",
+  "provincia": "CEUTA",
+  "lat": 35.895556,
+  "lon": -5.292222,
+  "altitud": 200.0
+ },
+ {
+  "indicativo": "5000C",
+  "nombre": "CEUTA",
+  "provincia": "CEUTA",
+  "lat": 35.888611,
+  "lon": -5.346944,
+  "altitud": 87.0
+ },
+ {
+  "indicativo": "5038X",
+  "nombre": "CAZORLA",
+  "provincia": "JAEN",
+  "lat": 37.915833,
+  "lon": -3.003889,
+  "altitud": 782.0
+ },
+ {
+  "indicativo": "5038Y",
+  "nombre": "CAZORLA",
+  "provincia": "JAEN",
+  "lat": 37.915833,
+  "lon": -3.003889,
+  "altitud": 799.0
+ },
+ {
+  "indicativo": "5047E",
+  "nombre": "BAZA",
+  "provincia": "GRANADA",
+  "lat": 37.505833,
+  "lon": -2.735,
+  "altitud": 785.0
+ },
+ {
+  "indicativo": "5051X",
+  "nombre": "HUÉSCAR",
+  "provincia": "GRANADA",
+  "lat": 37.861389,
+  "lon": -2.652778,
+  "altitud": 1100.0
+ },
+ {
+  "indicativo": "5060X",
+  "nombre": "VÉLEZ BLANCO - TOPARES",
+  "provincia": "ALMERIA",
+  "lat": 37.860833,
+  "lon": -2.228056,
+  "altitud": 1190.0
+ },
+ {
+  "indicativo": "5103E",
+  "nombre": "CAMARATE 2, PARQUE NACIONAL SIERRA NEVADA",
+  "provincia": "GRANADA",
+  "lat": 37.158333,
+  "lon": -3.256944,
+  "altitud": 2152.0
+ },
+ {
+  "indicativo": "5103F",
+  "nombre": "CAMARATE, PARQUE NACIONAL SIERRA NEVADA",
+  "provincia": "GRANADA",
+  "lat": 37.191111,
+  "lon": -3.253889,
+  "altitud": 1534.0
+ },
+ {
+  "indicativo": "5107D",
+  "nombre": "DÓLAR",
+  "provincia": "GRANADA",
+  "lat": 37.18,
+  "lon": -2.986389,
+  "altitud": 1197.0
+ },
+ {
+  "indicativo": "5164B",
+  "nombre": "BAEZA",
+  "provincia": "JAEN",
+  "lat": 37.996667,
+  "lon": -3.461944,
+  "altitud": 771.0
+ },
+ {
+  "indicativo": "5165X",
+  "nombre": "TORRES",
+  "provincia": "JAEN",
+  "lat": 37.780833,
+  "lon": -3.563611,
+  "altitud": 910.0
+ },
+ {
+  "indicativo": "5181D",
+  "nombre": "ARROYO DEL OJANCO",
+  "provincia": "JAEN",
+  "lat": 38.314722,
+  "lon": -2.889722,
+  "altitud": 580.0
+ },
+ {
+  "indicativo": "5192",
+  "nombre": "VILLARRODRIGO",
+  "provincia": "JAEN",
+  "lat": 38.489167,
+  "lon": -2.6375,
+  "altitud": 862.0
+ },
+ {
+  "indicativo": "5210X",
+  "nombre": "VILLANUEVA DEL ARZOBISPO",
+  "provincia": "JAEN",
+  "lat": 38.175,
+  "lon": -2.998056,
+  "altitud": 680.0
+ },
+ {
+  "indicativo": "5246",
+  "nombre": "SANTA ELENA",
+  "provincia": "JAEN",
+  "lat": 38.344444,
+  "lon": -3.535278,
+  "altitud": 770.0
+ },
+ {
+  "indicativo": "5270",
+  "nombre": "JAÉN, INSTITUTO",
+  "provincia": "JAEN",
+  "lat": 37.776389,
+  "lon": -3.788889,
+  "altitud": 510.0
+ },
+ {
+  "indicativo": "5270B",
+  "nombre": "JAÉN",
+  "provincia": "JAEN",
+  "lat": 37.7775,
+  "lon": -3.809167,
+  "altitud": 580.0
+ },
+ {
+  "indicativo": "5279X",
+  "nombre": "LINARES",
+  "provincia": "JAEN",
+  "lat": 38.151111,
+  "lon": -3.629444,
+  "altitud": 515.0
+ },
+ {
+  "indicativo": "5281X",
+  "nombre": "BAILÉN",
+  "provincia": "JAEN",
+  "lat": 38.093056,
+  "lon": -3.7825,
+  "altitud": 345.0
+ },
+ {
+  "indicativo": "5298X",
+  "nombre": "ANDÚJAR",
+  "provincia": "JAEN",
+  "lat": 38.023056,
+  "lon": -4.063333,
+  "altitud": 202.0
+ },
+ {
+  "indicativo": "5304Y",
+  "nombre": "PUERTOLLANO",
+  "provincia": "CIUDAD REAL",
+  "lat": 38.668889,
+  "lon": -4.059167,
+  "altitud": 665.0
+ },
+ {
+  "indicativo": "5341C",
+  "nombre": "FUENCALIENTE",
+  "provincia": "CIUDAD REAL",
+  "lat": 38.428889,
+  "lon": -4.301667,
+  "altitud": 710.0
+ },
+ {
+  "indicativo": "5346X",
+  "nombre": "CARDEÑA",
+  "provincia": "CORDOBA",
+  "lat": 38.186667,
+  "lon": -4.2725,
+  "altitud": 720.0
+ },
+ {
+  "indicativo": "5361X",
+  "nombre": "MONTORO",
+  "provincia": "CORDOBA",
+  "lat": 38.013333,
+  "lon": -4.330278,
+  "altitud": 155.0
+ },
+ {
+  "indicativo": "5390Y",
+  "nombre": "VILLANUEVA DE CÓRDOBA",
+  "provincia": "CORDOBA",
+  "lat": 38.333056,
+  "lon": -4.608889,
+  "altitud": 750.0
+ },
+ {
+  "indicativo": "5394X",
+  "nombre": "CÓRDOBA, EMBALSE DE GUADANUÑO",
+  "provincia": "CORDOBA",
+  "lat": 38.020833,
+  "lon": -4.796667,
+  "altitud": 525.0
+ },
+ {
+  "indicativo": "5402",
+  "nombre": "CÓRDOBA AEROPUERTO",
+  "provincia": "CORDOBA",
+  "lat": 37.848889,
+  "lon": -4.846667,
+  "altitud": 90.0
+ },
+ {
+  "indicativo": "5406X",
+  "nombre": "ALCALÁ LA REAL",
+  "provincia": "JAEN",
+  "lat": 37.4975,
+  "lon": -3.908056,
+  "altitud": 908.0
+ },
+ {
+  "indicativo": "5412X",
+  "nombre": "PRIEGO DE CÓRDOBA",
+  "provincia": "CORDOBA",
+  "lat": 37.484722,
+  "lon": -4.207778,
+  "altitud": 550.0
+ },
+ {
+  "indicativo": "5427X",
+  "nombre": "DOÑA MENCÍA",
+  "provincia": "CORDOBA",
+  "lat": 37.556111,
+  "lon": -4.353889,
+  "altitud": 650.0
+ },
+ {
+  "indicativo": "5429X",
+  "nombre": "CÓRDOBA, PRÁGDENA",
+  "provincia": "CORDOBA",
+  "lat": 37.810278,
+  "lon": -4.462222,
+  "altitud": 275.0
+ },
+ {
+  "indicativo": "5459X",
+  "nombre": "ESPIEL",
+  "provincia": "CORDOBA",
+  "lat": 38.111111,
+  "lon": -4.928611,
+  "altitud": 465.0
+ },
+ {
+  "indicativo": "5470",
+  "nombre": "FUENTE PALMERA",
+  "provincia": "CORDOBA",
+  "lat": 37.753056,
+  "lon": -5.100556,
+  "altitud": 120.0
+ },
+ {
+  "indicativo": "5473X",
+  "nombre": "AZUAGA",
+  "provincia": "BADAJOZ",
+  "lat": 38.267778,
+  "lon": -5.686111,
+  "altitud": 581.0
+ },
+ {
+  "indicativo": "5511",
+  "nombre": "PRADOLLANO, PARQUE NACIONAL SIERRA NEVADA",
+  "provincia": "GRANADA",
+  "lat": 37.064444,
+  "lon": -3.371389,
+  "altitud": 3092.0
+ },
+ {
+  "indicativo": "5514",
+  "nombre": "GRANADA BASE AÉREA",
+  "provincia": "GRANADA",
+  "lat": 37.137222,
+  "lon": -3.631389,
+  "altitud": 687.0
+ },
+ {
+  "indicativo": "5514Z",
+  "nombre": "GRANADA BASE AÉREA",
+  "provincia": "GRANADA",
+  "lat": 37.136111,
+  "lon": -3.633333,
+  "altitud": 695.0
+ },
+ {
+  "indicativo": "5515D",
+  "nombre": "VÍZNAR",
+  "provincia": "GRANADA",
+  "lat": 37.236944,
+  "lon": -3.550556,
+  "altitud": 1258.0
+ },
+ {
+  "indicativo": "5515X",
+  "nombre": "GRANADA-CARTUJA",
+  "provincia": "GRANADA",
+  "lat": 37.189722,
+  "lon": -3.595556,
+  "altitud": 775.0
+ },
+ {
+  "indicativo": "5516D",
+  "nombre": "SIERRA NEVADA 'RADIOTELESCOPIO'",
+  "provincia": "GRANADA",
+  "lat": 37.063056,
+  "lon": -3.386944,
+  "altitud": 2856.0
+ },
+ {
+  "indicativo": "5530E",
+  "nombre": "GRANADA AEROPUERTO",
+  "provincia": "GRANADA",
+  "lat": 37.190278,
+  "lon": -3.789722,
+  "altitud": 560.0
+ },
+ {
+  "indicativo": "5582A",
+  "nombre": "LOJA",
+  "provincia": "GRANADA",
+  "lat": 37.161111,
+  "lon": -4.152778,
+  "altitud": 593.0
+ },
+ {
+  "indicativo": "5598X",
+  "nombre": "BENAMEJÍ",
+  "provincia": "CORDOBA",
+  "lat": 37.230833,
+  "lon": -4.547778,
+  "altitud": 465.0
+ },
+ {
+  "indicativo": "5612B",
+  "nombre": "LA RODA DE ANDALUCÍA",
+  "provincia": "SEVILLA",
+  "lat": 37.194444,
+  "lon": -4.77,
+  "altitud": 410.0
+ },
+ {
+  "indicativo": "5612X",
+  "nombre": "LORA DE ESTEPA",
+  "provincia": "SEVILLA",
+  "lat": 37.270278,
+  "lon": -4.826944,
+  "altitud": 450.0
+ },
+ {
+  "indicativo": "5624X",
+  "nombre": "AGUILAR DE LA FRONTERA",
+  "provincia": "CORDOBA",
+  "lat": 37.481944,
+  "lon": -4.685833,
+  "altitud": 309.0
+ },
+ {
+  "indicativo": "5625X",
+  "nombre": "LA RAMBLA",
+  "provincia": "CORDOBA",
+  "lat": 37.638611,
+  "lon": -4.763889,
+  "altitud": 200.0
+ },
+ {
+  "indicativo": "5641X",
+  "nombre": "ÉCIJA",
+  "provincia": "SEVILLA",
+  "lat": 37.516111,
+  "lon": -5.085,
+  "altitud": 130.0
+ },
+ {
+  "indicativo": "5654X",
+  "nombre": "LA PUEBLA DE LOS INFANTES",
+  "provincia": "SEVILLA",
+  "lat": 37.786667,
+  "lon": -5.371111,
+  "altitud": 200.0
+ },
+ {
+  "indicativo": "5656",
+  "nombre": "FUENTES DE ANDALUCÍA",
+  "provincia": "SEVILLA",
+  "lat": 37.497222,
+  "lon": -5.433056,
+  "altitud": 165.0
+ },
+ {
+  "indicativo": "5702X",
+  "nombre": "CARMONA",
+  "provincia": "SEVILLA",
+  "lat": 37.565556,
+  "lon": -5.740556,
+  "altitud": 50.0
+ },
+ {
+  "indicativo": "5704B",
+  "nombre": "CAZALLA DE LA SIERRA",
+  "provincia": "SEVILLA",
+  "lat": 37.926389,
+  "lon": -5.769722,
+  "altitud": 550.0
+ },
+ {
+  "indicativo": "5726X",
+  "nombre": "GUADALCANAL",
+  "provincia": "SEVILLA",
+  "lat": 38.099444,
+  "lon": -5.819167,
+  "altitud": 720.0
+ },
+ {
+  "indicativo": "5733X",
+  "nombre": "ALMADÉN DE LA PLATA",
+  "provincia": "SEVILLA",
+  "lat": 37.791111,
+  "lon": -6.075,
+  "altitud": 450.0
+ },
+ {
+  "indicativo": "5769X",
+  "nombre": "CALA",
+  "provincia": "HUELVA",
+  "lat": 37.973611,
+  "lon": -6.322222,
+  "altitud": 618.0
+ },
+ {
+  "indicativo": "5783",
+  "nombre": "SEVILLA AEROPUERTO",
+  "provincia": "SEVILLA",
+  "lat": 37.416667,
+  "lon": -5.879167,
+  "altitud": 34.0
+ },
+ {
+  "indicativo": "5788X",
+  "nombre": "TOMARES, ZAUDÍN",
+  "provincia": "SEVILLA",
+  "lat": 37.361667,
+  "lon": -6.059722,
+  "altitud": 84.0
+ },
+ {
+  "indicativo": "5790Y",
+  "nombre": "SEVILLA, TABLADA",
+  "provincia": "SEVILLA",
+  "lat": 37.364167,
+  "lon": -6.005833,
+  "altitud": 9.0
+ },
+ {
+  "indicativo": "5796",
+  "nombre": "MORÓN DE LA FRONTERA",
+  "provincia": "SEVILLA",
+  "lat": 37.164444,
+  "lon": -5.611389,
+  "altitud": 87.0
+ },
+ {
+  "indicativo": "5835X",
+  "nombre": "CARRIÓN DE LOS CÉSPEDES",
+  "provincia": "SEVILLA",
+  "lat": 37.36,
+  "lon": -6.334167,
+  "altitud": 76.0
+ },
+ {
+  "indicativo": "5858X",
+  "nombre": "ALMONTE",
+  "provincia": "HUELVA",
+  "lat": 36.988611,
+  "lon": -6.443056,
+  "altitud": 5.0
+ },
+ {
+  "indicativo": "5860E",
+  "nombre": "MOGUER, EL ARENOSILLO",
+  "provincia": "HUELVA",
+  "lat": 37.098056,
+  "lon": -6.738056,
+  "altitud": 41.0
+ },
+ {
+  "indicativo": "5891X",
+  "nombre": "LAS CABEZAS DE SAN JUAN",
+  "provincia": "SEVILLA",
+  "lat": 36.953333,
+  "lon": -5.846667,
+  "altitud": 105.0
+ },
+ {
+  "indicativo": "5906X",
+  "nombre": "CHIPIONA",
+  "provincia": "CADIZ",
+  "lat": 36.75,
+  "lon": -6.400556,
+  "altitud": 10.0
+ },
+ {
+  "indicativo": "5910",
+  "nombre": "ROTA, BASE NAVAL",
+  "provincia": "CADIZ",
+  "lat": 36.638889,
+  "lon": -6.3325,
+  "altitud": 21.0
+ },
+ {
+  "indicativo": "5911A",
+  "nombre": "GRAZALEMA",
+  "provincia": "CADIZ",
+  "lat": 36.760556,
+  "lon": -5.374167,
+  "altitud": 913.0
+ },
+ {
+  "indicativo": "5911X",
+  "nombre": "GRAZALEMA",
+  "provincia": "CADIZ",
+  "lat": 36.760278,
+  "lon": -5.375,
+  "altitud": 935.0
+ },
+ {
+  "indicativo": "5919X",
+  "nombre": "OLVERA",
+  "provincia": "CADIZ",
+  "lat": 36.931667,
+  "lon": -5.259444,
+  "altitud": 530.0
+ },
+ {
+  "indicativo": "5941X",
+  "nombre": "EL BOSQUE",
+  "provincia": "CADIZ",
+  "lat": 36.729444,
+  "lon": -5.512222,
+  "altitud": 295.0
+ },
+ {
+  "indicativo": "5950X",
+  "nombre": "SAN JOSÉ DEL VALLE",
+  "provincia": "CADIZ",
+  "lat": 36.663889,
+  "lon": -5.783333,
+  "altitud": 105.0
+ },
+ {
+  "indicativo": "5960",
+  "nombre": "JEREZ DE LA FRONTERA AEROPUERTO",
+  "provincia": "CADIZ",
+  "lat": 36.750556,
+  "lon": -6.055833,
+  "altitud": 27.0
+ },
+ {
+  "indicativo": "5972X",
+  "nombre": "SAN FERNANDO",
+  "provincia": "CADIZ",
+  "lat": 36.465556,
+  "lon": -6.205556,
+  "altitud": 28.0
+ },
+ {
+  "indicativo": "5972Y",
+  "nombre": "SAN FERNANDO",
+  "provincia": "CADIZ",
+  "lat": 36.462778,
+  "lon": -6.206389,
+  "altitud": 24.0
+ },
+ {
+  "indicativo": "5973",
+  "nombre": "CÁDIZ",
+  "provincia": "CADIZ",
+  "lat": 36.499722,
+  "lon": -6.257778,
+  "altitud": 2.0
+ },
+ {
+  "indicativo": "5983X",
+  "nombre": "MEDINA SIDONIA",
+  "provincia": "CADIZ",
+  "lat": 36.406111,
+  "lon": -5.920278,
+  "altitud": 70.0
+ },
+ {
+  "indicativo": "5995B",
+  "nombre": "VEJER DE LA FRONTERA",
+  "provincia": "CADIZ",
+  "lat": 36.245278,
+  "lon": -5.965278,
+  "altitud": 183.0
+ },
+ {
+  "indicativo": "5996B",
+  "nombre": "BARBATE",
+  "provincia": "CADIZ",
+  "lat": 36.184722,
+  "lon": -5.909444,
+  "altitud": 4.0
+ },
+ {
+  "indicativo": "5998X",
+  "nombre": "OSUNA",
+  "provincia": "SEVILLA",
+  "lat": 37.243333,
+  "lon": -5.1125,
+  "altitud": 255.0
+ },
+ {
+  "indicativo": "6001",
+  "nombre": "TARIFA",
+  "provincia": "CADIZ",
+  "lat": 36.014444,
+  "lon": -5.597222,
+  "altitud": 45.0
+ },
+ {
+  "indicativo": "6032B",
+  "nombre": "RONDA",
+  "provincia": "MALAGA",
+  "lat": 36.749722,
+  "lon": -5.168333,
+  "altitud": 766.0
+ },
+ {
+  "indicativo": "6032X",
+  "nombre": "RONDA INSTITUTO",
+  "provincia": "MALAGA",
+  "lat": 36.75,
+  "lon": -5.168611,
+  "altitud": 760.0
+ },
+ {
+  "indicativo": "6040X",
+  "nombre": "CORTES DE LA FRONTERA",
+  "provincia": "MALAGA",
+  "lat": 36.544444,
+  "lon": -5.386389,
+  "altitud": 315.0
+ },
+ {
+  "indicativo": "6042I",
+  "nombre": "JIMENA DE LA FRONTERA",
+  "provincia": "CADIZ",
+  "lat": 36.435556,
+  "lon": -5.395,
+  "altitud": 42.0
+ },
+ {
+  "indicativo": "6045X",
+  "nombre": "ALPANDEIRE",
+  "provincia": "MALAGA",
+  "lat": 36.6325,
+  "lon": -5.203056,
+  "altitud": 676.0
+ },
+ {
+  "indicativo": "6050X",
+  "nombre": "GAUCÍN",
+  "provincia": "MALAGA",
+  "lat": 36.518611,
+  "lon": -5.318611,
+  "altitud": 594.0
+ },
+ {
+  "indicativo": "6056X",
+  "nombre": "SAN ROQUE",
+  "provincia": "CADIZ",
+  "lat": 36.273056,
+  "lon": -5.284444,
+  "altitud": 1.0
+ },
+ {
+  "indicativo": "6057X",
+  "nombre": "MANILVA",
+  "provincia": "MALAGA",
+  "lat": 36.378333,
+  "lon": -5.26,
+  "altitud": 140.0
+ },
+ {
+  "indicativo": "6058I",
+  "nombre": "ESTEPONA",
+  "provincia": "MALAGA",
+  "lat": 36.416944,
+  "lon": -5.155,
+  "altitud": 19.0
+ },
+ {
+  "indicativo": "6069X",
+  "nombre": "BENAHAVÍS",
+  "provincia": "MALAGA",
+  "lat": 36.543611,
+  "lon": -5.024722,
+  "altitud": 392.0
+ },
+ {
+  "indicativo": "6076X",
+  "nombre": "MARBELLA, PUERTO",
+  "provincia": "MALAGA",
+  "lat": 36.484444,
+  "lon": -4.953056,
+  "altitud": 2.0
+ },
+ {
+  "indicativo": "6083X",
+  "nombre": "MARBELLA",
+  "provincia": "MALAGA",
+  "lat": 36.483333,
+  "lon": -4.740278,
+  "altitud": 2.0
+ },
+ {
+  "indicativo": "6084X",
+  "nombre": "FUENGIROLA",
+  "provincia": "MALAGA",
+  "lat": 36.538611,
+  "lon": -4.618333,
+  "altitud": 8.0
+ },
+ {
+  "indicativo": "6088X",
+  "nombre": "TORREMOLINOS",
+  "provincia": "MALAGA",
+  "lat": 36.620556,
+  "lon": -4.515,
+  "altitud": 85.0
+ },
+ {
+  "indicativo": "6100B",
+  "nombre": "ANTEQUERA",
+  "provincia": "MALAGA",
+  "lat": 37.023611,
+  "lon": -4.562222,
+  "altitud": 515.0
+ },
+ {
+  "indicativo": "6106X",
+  "nombre": "ANTEQUERA",
+  "provincia": "MALAGA",
+  "lat": 37.029444,
+  "lon": -4.748333,
+  "altitud": 408.0
+ },
+ {
+  "indicativo": "6127X",
+  "nombre": "ÁLORA",
+  "provincia": "MALAGA",
+  "lat": 36.854722,
+  "lon": -4.696667,
+  "altitud": 172.0
+ },
+ {
+  "indicativo": "6143X",
+  "nombre": "COÍN",
+  "provincia": "MALAGA",
+  "lat": 36.657778,
+  "lon": -4.760833,
+  "altitud": 230.0
+ },
+ {
+  "indicativo": "6155A",
+  "nombre": "MÁLAGA AEROPUERTO",
+  "provincia": "MALAGA",
+  "lat": 36.666111,
+  "lon": -4.482222,
+  "altitud": 7.0
+ },
+ {
+  "indicativo": "6156X",
+  "nombre": "MÁLAGA, CENTRO METEOROLÓGICO",
+  "provincia": "MALAGA",
+  "lat": 36.717778,
+  "lon": -4.481667,
+  "altitud": 54.0
+ },
+ {
+  "indicativo": "6172O",
+  "nombre": "MÁLAGA, PUERTO",
+  "provincia": "MALAGA",
+  "lat": 36.716667,
+  "lon": -4.419722,
+  "altitud": 25.0
+ },
+ {
+  "indicativo": "6172X",
+  "nombre": "MÁLAGA",
+  "provincia": "MALAGA",
+  "lat": 36.716667,
+  "lon": -4.419722,
+  "altitud": 25.0
+ },
+ {
+  "indicativo": "6175X",
+  "nombre": "RINCÓN DE LA VICTORIA",
+  "provincia": "MALAGA",
+  "lat": 36.715,
+  "lon": -4.286111,
+  "altitud": 7.0
+ },
+ {
+  "indicativo": "6199X",
+  "nombre": "VÉLEZ-MÁLAGA",
+  "provincia": "MALAGA",
+  "lat": 36.768611,
+  "lon": -4.093611,
+  "altitud": 41.0
+ },
+ {
+  "indicativo": "6201X",
+  "nombre": "ALGARROBO",
+  "provincia": "MALAGA",
+  "lat": 36.755833,
+  "lon": -4.043889,
+  "altitud": 35.0
+ },
+ {
+  "indicativo": "6205X",
+  "nombre": "TORROX",
+  "provincia": "MALAGA",
+  "lat": 36.726389,
+  "lon": -3.957222,
+  "altitud": 3.0
+ },
+ {
+  "indicativo": "6213X",
+  "nombre": "NERJA",
+  "provincia": "MALAGA",
+  "lat": 36.762778,
+  "lon": -3.845278,
+  "altitud": 169.0
+ },
+ {
+  "indicativo": "6248D",
+  "nombre": "CAÑAR, PARQUE NACIONAL SIERRA NEVADA",
+  "provincia": "GRANADA",
+  "lat": 36.952222,
+  "lon": -3.430278,
+  "altitud": 1732.0
+ },
+ {
+  "indicativo": "6258X",
+  "nombre": "LANJARÓN",
+  "provincia": "GRANADA",
+  "lat": 36.923056,
+  "lon": -3.4925,
+  "altitud": 708.0
+ },
+ {
+  "indicativo": "6267X",
+  "nombre": "SALOBREÑA",
+  "provincia": "GRANADA",
+  "lat": 36.748333,
+  "lon": -3.578611,
+  "altitud": 20.0
+ },
+ {
+  "indicativo": "6268X",
+  "nombre": "MOTRIL",
+  "provincia": "GRANADA",
+  "lat": 36.722778,
+  "lon": -3.530278,
+  "altitud": 12.0
+ },
+ {
+  "indicativo": "6268Y",
+  "nombre": "MOTRIL, PUERTO",
+  "provincia": "GRANADA",
+  "lat": 36.723889,
+  "lon": -3.529167,
+  "altitud": 3.0
+ },
+ {
+  "indicativo": "6272X",
+  "nombre": "CASTELL DE FERRO",
+  "provincia": "GRANADA",
+  "lat": 36.734167,
+  "lon": -3.38,
+  "altitud": 235.0
+ },
+ {
+  "indicativo": "6277B",
+  "nombre": "ADRA",
+  "provincia": "ALMERIA",
+  "lat": 36.747222,
+  "lon": -3.020556,
+  "altitud": 8.0
+ },
+ {
+  "indicativo": "6277C",
+  "nombre": "ADRA",
+  "provincia": "ALMERIA",
+  "lat": 36.748056,
+  "lon": -3.030833,
+  "altitud": 26.0
+ },
+ {
+  "indicativo": "6281X",
+  "nombre": "VÁLOR",
+  "provincia": "GRANADA",
+  "lat": 37.005278,
+  "lon": -3.071389,
+  "altitud": 1020.0
+ },
+ {
+  "indicativo": "6291B",
+  "nombre": "EL EJIDO",
+  "provincia": "ALMERIA",
+  "lat": 36.774722,
+  "lon": -2.813056,
+  "altitud": 98.0
+ },
+ {
+  "indicativo": "6293X",
+  "nombre": "ROQUETAS DE MAR",
+  "provincia": "ALMERIA",
+  "lat": 36.686944,
+  "lon": -2.701667,
+  "altitud": 3.0
+ },
+ {
+  "indicativo": "6297",
+  "nombre": "ALMERÍA",
+  "provincia": "ALMERIA",
+  "lat": 36.831111,
+  "lon": -2.455556,
+  "altitud": 7.0
+ },
+ {
+  "indicativo": "6299I",
+  "nombre": "LAGUNA SECA, PARQUE NACIONAL SIERRA NEVADA",
+  "provincia": "GRANADA",
+  "lat": 37.095833,
+  "lon": -2.964444,
+  "altitud": 2300.0
+ },
+ {
+  "indicativo": "6302A",
+  "nombre": "ABLA",
+  "provincia": "ALMERIA",
+  "lat": 37.141389,
+  "lon": -2.78,
+  "altitud": 869.0
+ },
+ {
+  "indicativo": "6302X",
+  "nombre": "ABLA",
+  "provincia": "ALMERIA",
+  "lat": 37.153056,
+  "lon": -2.78,
+  "altitud": 832.0
+ },
+ {
+  "indicativo": "6307C",
+  "nombre": "LAÚJAR, PARQUE NACIONAL SIERRA NEVADA",
+  "provincia": "ALMERIA",
+  "lat": 37.053056,
+  "lon": -2.897222,
+  "altitud": 1713.0
+ },
+ {
+  "indicativo": "6307X",
+  "nombre": "LÁUJAR DE ANDARAX",
+  "provincia": "ALMERIA",
+  "lat": 37.033333,
+  "lon": -2.9125,
+  "altitud": 1510.0
+ },
+ {
+  "indicativo": "6312E",
+  "nombre": "RÁGOL, PARQUE NACIONAL SIERRA NEVADA",
+  "provincia": "ALMERIA",
+  "lat": 37.020833,
+  "lon": -2.677222,
+  "altitud": 601.0
+ },
+ {
+  "indicativo": "6325O",
+  "nombre": "ALMERÍA AEROPUERTO",
+  "provincia": "ALMERIA",
+  "lat": 36.846389,
+  "lon": -2.356944,
+  "altitud": 21.0
+ },
+ {
+  "indicativo": "6329X",
+  "nombre": "CABO DE GATA",
+  "provincia": "ALMERIA",
+  "lat": 36.721944,
+  "lon": -2.193056,
+  "altitud": 42.0
+ },
+ {
+  "indicativo": "6332X",
+  "nombre": "CARBONERAS",
+  "provincia": "ALMERIA",
+  "lat": 36.980278,
+  "lon": -1.903611,
+  "altitud": 16.0
+ },
+ {
+  "indicativo": "6332Y",
+  "nombre": "CARBONERAS",
+  "provincia": "ALMERIA",
+  "lat": 36.942222,
+  "lon": -1.906944,
+  "altitud": 222.0
+ },
+ {
+  "indicativo": "6335O",
+  "nombre": "NACIMIENTO, PARQUE NACIONAL SIERRA NEVADA",
+  "provincia": "ALMERIA",
+  "lat": 37.11,
+  "lon": -2.699167,
+  "altitud": 970.0
+ },
+ {
+  "indicativo": "6340X",
+  "nombre": "GARRUCHA",
+  "provincia": "ALMERIA",
+  "lat": 37.169167,
+  "lon": -1.828611,
+  "altitud": 28.0
+ },
+ {
+  "indicativo": "6364X",
+  "nombre": "ALBOX",
+  "provincia": "ALMERIA",
+  "lat": 37.406667,
+  "lon": -2.151389,
+  "altitud": 508.0
+ },
+ {
+  "indicativo": "6367B",
+  "nombre": "HUÉRCAL-OVERA",
+  "provincia": "ALMERIA",
+  "lat": 37.390556,
+  "lon": -1.943611,
+  "altitud": 300.0
+ },
+ {
+  "indicativo": "6367X",
+  "nombre": "HUÉRCAL-OVERA",
+  "provincia": "ALMERIA",
+  "lat": 37.423611,
+  "lon": -1.912222,
+  "altitud": 326.0
+ },
+ {
+  "indicativo": "6375X",
+  "nombre": "FUENTE DE PIEDRA",
+  "provincia": "MALAGA",
+  "lat": 37.132222,
+  "lon": -4.741944,
+  "altitud": 420.0
+ },
+ {
+  "indicativo": "6381",
+  "nombre": "ALBORÁN",
+  "provincia": "ALMERIA",
+  "lat": 35.938333,
+  "lon": -3.036111,
+  "altitud": 15.0
+ },
+ {
+  "indicativo": "7002Y",
+  "nombre": "ÁGUILAS",
+  "provincia": "MURCIA",
+  "lat": 37.417222,
+  "lon": -1.586944,
+  "altitud": 32.0
+ },
+ {
+  "indicativo": "7007Y",
+  "nombre": "MAZARRÓN",
+  "provincia": "MURCIA",
+  "lat": 37.588056,
+  "lon": -1.230556,
+  "altitud": 66.0
+ },
+ {
+  "indicativo": "7012C",
+  "nombre": "CARTAGENA",
+  "provincia": "MURCIA",
+  "lat": 37.601111,
+  "lon": -0.987778,
+  "altitud": 17.0
+ },
+ {
+  "indicativo": "7012D",
+  "nombre": "CARTAGENA, TENTEGORRA",
+  "provincia": "MURCIA",
+  "lat": 37.604444,
+  "lon": -1.023333,
+  "altitud": 56.0
+ },
+ {
+  "indicativo": "7012X",
+  "nombre": "TENTENGORRA",
+  "provincia": "MURCIA",
+  "lat": 37.601389,
+  "lon": -0.990278,
+  "altitud": 2.0
+ },
+ {
+  "indicativo": "7019X",
+  "nombre": "CARTAGENA/SALINAS CABO PALOS",
+  "provincia": "MURCIA",
+  "lat": 37.635833,
+  "lon": -0.715556,
+  "altitud": 2.0
+ },
+ {
+  "indicativo": "7020C",
+  "nombre": "MURCIA AEROPUERTO",
+  "provincia": "MURCIA",
+  "lat": 37.8075,
+  "lon": -1.128056,
+  "altitud": 205.0
+ },
+ {
+  "indicativo": "7023X",
+  "nombre": "FUENTE ÁLAMO DE MURCIA",
+  "provincia": "MURCIA",
+  "lat": 37.726389,
+  "lon": -1.167222,
+  "altitud": 140.0
+ },
+ {
+  "indicativo": "7026X",
+  "nombre": "TORRE-PACHECO",
+  "provincia": "MURCIA",
+  "lat": 37.738889,
+  "lon": -0.9675,
+  "altitud": 50.0
+ },
+ {
+  "indicativo": "7031",
+  "nombre": "SAN JAVIER AEROPUERTO",
+  "provincia": "MURCIA",
+  "lat": 37.788889,
+  "lon": -0.803333,
+  "altitud": 4.0
+ },
+ {
+  "indicativo": "7031X",
+  "nombre": "SAN JAVIER AEROPUERTO",
+  "provincia": "MURCIA",
+  "lat": 37.778333,
+  "lon": -0.805833,
+  "altitud": 4.0
+ },
+ {
+  "indicativo": "7066Y",
+  "nombre": "YESTE, EMBALSE FUENSANTA",
+  "provincia": "ALBACETE",
+  "lat": 38.393333,
+  "lon": -2.218889,
+  "altitud": 680.0
+ },
+ {
+  "indicativo": "7067Y",
+  "nombre": "NERPIO",
+  "provincia": "ALBACETE",
+  "lat": 38.088333,
+  "lon": -2.413056,
+  "altitud": 1485.0
+ },
+ {
+  "indicativo": "7072Y",
+  "nombre": "YESTE",
+  "provincia": "ALBACETE",
+  "lat": 38.295,
+  "lon": -2.293889,
+  "altitud": 960.0
+ },
+ {
+  "indicativo": "7080X",
+  "nombre": "MORATALLA",
+  "provincia": "MURCIA",
+  "lat": 38.268333,
+  "lon": -1.986389,
+  "altitud": 955.0
+ },
+ {
+  "indicativo": "7096B",
+  "nombre": "HELLÍN",
+  "provincia": "ALBACETE",
+  "lat": 38.541944,
+  "lon": -1.703056,
+  "altitud": 605.0
+ },
+ {
+  "indicativo": "7103Y",
+  "nombre": "TOBARRA",
+  "provincia": "ALBACETE",
+  "lat": 38.588056,
+  "lon": -1.689444,
+  "altitud": 615.0
+ },
+ {
+  "indicativo": "7119B",
+  "nombre": "CARAVACA DE LA CRUZ",
+  "provincia": "MURCIA",
+  "lat": 38.103056,
+  "lon": -1.877222,
+  "altitud": 643.0
+ },
+ {
+  "indicativo": "7121A",
+  "nombre": "CALASPARRA",
+  "provincia": "MURCIA",
+  "lat": 38.234167,
+  "lon": -1.702222,
+  "altitud": 350.0
+ },
+ {
+  "indicativo": "7127X",
+  "nombre": "BULLAS",
+  "provincia": "MURCIA",
+  "lat": 38.049167,
+  "lon": -1.695278,
+  "altitud": 690.0
+ },
+ {
+  "indicativo": "7138B",
+  "nombre": "JUMILLA",
+  "provincia": "MURCIA",
+  "lat": 38.458889,
+  "lon": -1.335278,
+  "altitud": 485.0
+ },
+ {
+  "indicativo": "7145X",
+  "nombre": "CIEZA",
+  "provincia": "MURCIA",
+  "lat": 38.26,
+  "lon": -1.435,
+  "altitud": 230.0
+ },
+ {
+  "indicativo": "7158X",
+  "nombre": "ARCHENA",
+  "provincia": "MURCIA",
+  "lat": 38.128056,
+  "lon": -1.305833,
+  "altitud": 150.0
+ },
+ {
+  "indicativo": "7172X",
+  "nombre": "MULA",
+  "provincia": "MURCIA",
+  "lat": 38.041389,
+  "lon": -1.449167,
+  "altitud": 255.0
+ },
+ {
+  "indicativo": "7178I",
+  "nombre": "MURCIA",
+  "provincia": "MURCIA",
+  "lat": 38.001944,
+  "lon": -1.170833,
+  "altitud": 62.0
+ },
+ {
+  "indicativo": "7195X",
+  "nombre": "CARAVACA DE LA CRUZ, LOS ROYOS",
+  "provincia": "MURCIA",
+  "lat": 37.926111,
+  "lon": -2.058333,
+  "altitud": 985.0
+ },
+ {
+  "indicativo": "7203A",
+  "nombre": "LORCA, ZARCILLA DE RAMOS",
+  "provincia": "MURCIA",
+  "lat": 37.844722,
+  "lon": -1.869722,
+  "altitud": 646.0
+ },
+ {
+  "indicativo": "7209",
+  "nombre": "LORCA",
+  "provincia": "MURCIA",
+  "lat": 37.656389,
+  "lon": -1.687222,
+  "altitud": 312.0
+ },
+ {
+  "indicativo": "7211B",
+  "nombre": "PUERTO LUMBRERAS",
+  "provincia": "MURCIA",
+  "lat": 37.568056,
+  "lon": -1.797222,
+  "altitud": 445.0
+ },
+ {
+  "indicativo": "7218Y",
+  "nombre": "TOTANA",
+  "provincia": "MURCIA",
+  "lat": 37.758611,
+  "lon": -1.512778,
+  "altitud": 281.0
+ },
+ {
+  "indicativo": "7227X",
+  "nombre": "ALHAMA DE MURCIA",
+  "provincia": "MURCIA",
+  "lat": 37.861667,
+  "lon": -1.334722,
+  "altitud": 157.0
+ },
+ {
+  "indicativo": "7228",
+  "nombre": "ALCANTARILLA, BASE AÉREA",
+  "provincia": "MURCIA",
+  "lat": 37.957778,
+  "lon": -1.228611,
+  "altitud": 75.0
+ },
+ {
+  "indicativo": "7237E",
+  "nombre": "MOLINA DE SEGURA",
+  "provincia": "MURCIA",
+  "lat": 38.138889,
+  "lon": -1.158611,
+  "altitud": 170.0
+ },
+ {
+  "indicativo": "7244X",
+  "nombre": "ORIHUELA",
+  "provincia": "ALICANTE",
+  "lat": 38.067778,
+  "lon": -0.981389,
+  "altitud": 26.0
+ },
+ {
+  "indicativo": "7247X",
+  "nombre": "EL PINÓS/PINOSO",
+  "provincia": "ALICANTE",
+  "lat": 38.399722,
+  "lon": -1.038056,
+  "altitud": 577.0
+ },
+ {
+  "indicativo": "7250C",
+  "nombre": "ABANILLA",
+  "provincia": "MURCIA",
+  "lat": 38.194444,
+  "lon": -1.033889,
+  "altitud": 174.0
+ },
+ {
+  "indicativo": "7261X",
+  "nombre": "ROJALES",
+  "provincia": "ALICANTE",
+  "lat": 38.088056,
+  "lon": -0.715278,
+  "altitud": 31.0
+ },
+ {
+  "indicativo": "7275C",
+  "nombre": "YECLA",
+  "provincia": "MURCIA",
+  "lat": 38.601667,
+  "lon": -1.159722,
+  "altitud": 640.0
+ },
+ {
+  "indicativo": "8005X",
+  "nombre": "FONTANARS DELS ALFORINS",
+  "provincia": "VALENCIA",
+  "lat": 38.78,
+  "lon": -0.795833,
+  "altitud": 622.0
+ },
+ {
+  "indicativo": "8008Y",
+  "nombre": "VILLENA",
+  "provincia": "ALICANTE",
+  "lat": 38.576944,
+  "lon": -0.865556,
+  "altitud": 486.0
+ },
+ {
+  "indicativo": "8013X",
+  "nombre": "NOVELDA",
+  "provincia": "ALICANTE",
+  "lat": 38.385556,
+  "lon": -0.757778,
+  "altitud": 233.0
+ },
+ {
+  "indicativo": "8018X",
+  "nombre": "ELX/ELCHE",
+  "provincia": "ALICANTE",
+  "lat": 38.2875,
+  "lon": -0.680556,
+  "altitud": 110.0
+ },
+ {
+  "indicativo": "8019",
+  "nombre": "ALICANTE-ELCHE AEROPUERTO",
+  "provincia": "ALICANTE",
+  "lat": 38.282778,
+  "lon": -0.570833,
+  "altitud": 43.0
+ },
+ {
+  "indicativo": "8025",
+  "nombre": "ALACANT/ALICANTE",
+  "provincia": "ALICANTE",
+  "lat": 38.3725,
+  "lon": -0.494167,
+  "altitud": 81.0
+ },
+ {
+  "indicativo": "8059C",
+  "nombre": "ALCOI/ALCOY",
+  "provincia": "ALICANTE",
+  "lat": 38.710833,
+  "lon": -0.46,
+  "altitud": 530.0
+ },
+ {
+  "indicativo": "8072Y",
+  "nombre": "BARX",
+  "provincia": "VALENCIA",
+  "lat": 39.016944,
+  "lon": -0.304722,
+  "altitud": 340.0
+ },
+ {
+  "indicativo": "8175",
+  "nombre": "ALBACETE BASE AÉREA",
+  "provincia": "ALBACETE",
+  "lat": 38.954167,
+  "lon": -1.856389,
+  "altitud": 702.0
+ },
+ {
+  "indicativo": "8177A",
+  "nombre": "CHINCHILLA",
+  "provincia": "ALBACETE",
+  "lat": 38.9375,
+  "lon": -1.658889,
+  "altitud": 880.0
+ },
+ {
+  "indicativo": "8178D",
+  "nombre": "ALBACETE",
+  "provincia": "ALBACETE",
+  "lat": 39.005556,
+  "lon": -1.862222,
+  "altitud": 674.0
+ },
+ {
+  "indicativo": "8193E",
+  "nombre": "JALANCE",
+  "provincia": "VALENCIA",
+  "lat": 39.208333,
+  "lon": -1.094444,
+  "altitud": 372.0
+ },
+ {
+  "indicativo": "8198Y",
+  "nombre": "ALMANSA",
+  "provincia": "ALBACETE",
+  "lat": 38.850556,
+  "lon": -1.063056,
+  "altitud": 710.0
+ },
+ {
+  "indicativo": "8203O",
+  "nombre": "ZARRA",
+  "provincia": "VALENCIA",
+  "lat": 39.083056,
+  "lon": -1.101111,
+  "altitud": 856.0
+ },
+ {
+  "indicativo": "8270X",
+  "nombre": "BICORP",
+  "provincia": "VALENCIA",
+  "lat": 39.133611,
+  "lon": -0.79,
+  "altitud": 305.0
+ },
+ {
+  "indicativo": "8283X",
+  "nombre": "ONTINYENT",
+  "provincia": "VALENCIA",
+  "lat": 38.829444,
+  "lon": -0.607778,
+  "altitud": 350.0
+ },
+ {
+  "indicativo": "8293X",
+  "nombre": "XÀTIVA",
+  "provincia": "VALENCIA",
+  "lat": 39.001667,
+  "lon": -0.523056,
+  "altitud": 88.0
+ },
+ {
+  "indicativo": "8300X",
+  "nombre": "CARCAIXENT",
+  "provincia": "VALENCIA",
+  "lat": 39.113333,
+  "lon": -0.445833,
+  "altitud": 25.0
+ },
+ {
+  "indicativo": "8325X",
+  "nombre": "POLINYÀ DE XÚQUER",
+  "provincia": "VALENCIA",
+  "lat": 39.183889,
+  "lon": -0.371389,
+  "altitud": 11.0
+ },
+ {
+  "indicativo": "8337X",
+  "nombre": "TURÍS",
+  "provincia": "VALENCIA",
+  "lat": 39.392222,
+  "lon": -0.624722,
+  "altitud": 186.0
+ }
+]

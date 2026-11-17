@@ -1,0 +1,29 @@
+=== TEXTO PARA EL PAPER (R1.4) ===
+
+The spatial representativeness of the assigned AEMET stations was assessed by computing, for each of the 21 municipalities in the study area, the great-circle distance between the station and the municipal centroid, the difference in elevation between the station and the mean municipal altitude, and the number of active AEMET stations within a 30 km radius. The mean station-to-centroid distance was 4.9 km (range: 0.1--10.4 km), and the mean elevation difference was 257 m (range: 10--1252 m). On average, 21.5 AEMET stations were available within 30 km of each municipal centroid (range: 15--27). Municipalities with the largest elevation differences (e.g., Tejeda and Artenara, located above 1000 m a.s.l.) were assigned to the nearest available high-altitude stations, minimising the lapse-rate bias in dew point derivation.
+
+=== TABLA ===
+
+Municipio                           Estación  Dist (km)   Δalt (m)   N est 30km
+--------------------------------------------------------------------------------
+Firgas                                 C669B      10.36      274.0           22
+Mogán                                  C629X      10.09       70.0           20
+Valsequillo                            C611E      10.05     1062.0           21
+Santa Brígida                          C611E       9.72     1252.0           23
+Moya                                   C669B       9.57      344.0           22
+Santa María de Guía                    C619X       8.51      195.0           18
+Gáldar                                 C619X       7.81      115.0           18
+Artenara                               C612F       6.14      244.0           24
+Las Palmas de Gran Canaria             C658X       5.31      261.0           18
+Telde                                  C648N       4.23      229.0           19
+Santa Lucía de Tirajana                C635B       3.65       70.0           27
+Vega de San Mateo                      C611E       3.18      802.0           27
+Ingenio                                C648C       3.14       56.0           21
+Arucas                                 C669B       3.04       94.0           18
+La Aldea de San Nicolás                C619Y       1.95       37.0           15
+Teror                                  C656V        1.8      140.0           23
+Agaete                                 C619X       1.22       35.0           19
+Valleseco                              C665T       0.98       10.0           22
+San Bartolomé de Tirajana              C635B       0.82       70.0           27
+Agüimes                                C648C       0.69       31.0           21
+Tejeda                                 C614H       0.13       10.0           27

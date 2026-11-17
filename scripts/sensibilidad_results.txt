@@ -1,0 +1,37 @@
+     grupo                variante           indicador  spearman  top10_comun  top5pc_comun    n  estacion_cambia  sin_candidata
+    Magnus      a=17.625, b=243.04                  DF     1.000         10.0         1.000 7967              NaN            NaN
+    Magnus      a=17.625, b=243.04                 CFI     1.000         10.0         1.000 7967              NaN            NaN
+    Magnus        a=17.27, b=237.7                  DF     1.000         10.0         1.000 7967              NaN            NaN
+    Magnus        a=17.27, b=237.7                 CFI     1.000         10.0         1.000 7967              NaN            NaN
+   epsilon                   eps=0                 CFI     0.986         10.0         0.864 7967              NaN            NaN
+   epsilon                 eps=0.5                 CFI     0.996         10.0         0.912 7967              NaN            NaN
+   epsilon                   eps=2                 CFI     0.988          5.0         0.930 7967              NaN            NaN
+ umbral HR                   HR>90                 HHF     0.907          0.0         0.812 7967              NaN            NaN
+ umbral HR                   HR>93                 HHF     0.977         10.0         0.935 7967              NaN            NaN
+ umbral HR                   HR>97                 HHF     0.971         10.0         0.912 7967              NaN            NaN
+ min. dias              >=250 dias                  DF     1.000         10.0         0.967 7967              NaN            NaN
+ min. dias              >=250 dias                 CFI     0.999         10.0         0.967 7967              NaN            NaN
+ min. dias              >=250 dias                 HHF     0.999         10.0         0.967 7967              NaN            NaN
+ min. dias              >=250 dias municipios con dato       NaN          NaN           NaN 7967              NaN            NaN
+ min. dias              >=330 dias                  DF     0.999         10.0         0.979 7572              NaN            NaN
+ min. dias              >=330 dias                 CFI     0.999         10.0         0.989 7572              NaN            NaN
+ min. dias              >=330 dias                 HHF     0.998         10.0         1.000 7572              NaN            NaN
+ min. dias              >=330 dias municipios con dato       NaN          NaN           NaN 7572              NaN            NaN
+asignacion  D0=5, Z0=200, radio=30                  DF     0.963          8.0         0.907 7967            503.0            0.0
+asignacion  D0=5, Z0=200, radio=30                 CFI     0.967          8.0         0.915 7967            503.0            0.0
+asignacion  D0=5, Z0=200, radio=30                 HHF     0.956          8.0         0.915 7967            503.0            0.0
+asignacion D0=20, Z0=200, radio=30                  DF     0.935          7.0         0.869 7967            952.0            0.0
+asignacion D0=20, Z0=200, radio=30                 CFI     0.945          7.0         0.862 7967            952.0            0.0
+asignacion D0=20, Z0=200, radio=30                 HHF     0.925          7.0         0.859 7967            952.0            0.0
+asignacion D0=10, Z0=100, radio=30                  DF     0.935          7.0         0.869 7967            952.0            0.0
+asignacion D0=10, Z0=100, radio=30                 CFI     0.945          7.0         0.862 7967            952.0            0.0
+asignacion D0=10, Z0=100, radio=30                 HHF     0.925          7.0         0.859 7967            952.0            0.0
+asignacion D0=10, Z0=400, radio=30                  DF     0.963          8.0         0.907 7967            503.0            0.0
+asignacion D0=10, Z0=400, radio=30                 CFI     0.967          8.0         0.915 7967            503.0            0.0
+asignacion D0=10, Z0=400, radio=30                 HHF     0.956          8.0         0.915 7967            503.0            0.0
+asignacion D0=10, Z0=200, radio=20                  DF     0.990         10.0         0.983 7022            134.0          945.0
+asignacion D0=10, Z0=200, radio=20                 CFI     0.990         10.0         0.980 7022            134.0          945.0
+asignacion D0=10, Z0=200, radio=20                 HHF     0.987         10.0         0.980 7022            134.0          945.0
+asignacion D0=10, Z0=200, radio=15                  DF     0.983          9.0         0.964 5532            202.0         2435.0
+asignacion D0=10, Z0=200, radio=15                 CFI     0.983          9.0         0.949 5532            202.0         2435.0
+asignacion D0=10, Z0=200, radio=15                 HHF     0.977          9.0         0.975 5532            202.0         2435.0

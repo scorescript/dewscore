@@ -1,0 +1,29 @@
+=== TEXTO PARA EL PAPER (R1.9) ===
+
+A climate refuge is operationally defined as a municipality whose 22-year mean CFI lies at or above the 75th percentile of the regional distribution (CFI >= 0.0457), whose mean FCE also lies at or above the 75th percentile (FCE >= 0.3342), and whose thermal gap (T - T_d) coefficient of variation does not exceed 30.0%, jointly indicating high average feasibility and low interannual variability. Under this definition, 15 of the 83 municipalities in the study area qualify as climate refuges.
+
+=== MUNICIPIOS CLIMATE REFUGE ===
+
+Valleseco (Gran Canaria) — CFI=0.2058, FCE=0.7483, CV=26.3%
+Artenara (Gran Canaria) — CFI=0.2014, FCE=0.4741, CV=18.4%
+Teror (Gran Canaria) — CFI=0.1124, FCE=0.7609, CV=22.4%
+San Cristóbal de La Laguna (Tenerife) — CFI=0.0495, FCE=0.6356, CV=15.6%
+La Orotava (Tenerife) — CFI=0.0481, FCE=0.6318, CV=16.4%
+La Guancha (Tenerife) — CFI=0.0476, FCE=0.6132, CV=14.8%
+San Juan de la Rambla (Tenerife) — CFI=0.0475, FCE=0.6174, CV=12.9%
+El Tanque (Tenerife) — CFI=0.0472, FCE=0.6135, CV=10.8%
+La Matanza de Acentejo (Tenerife) — CFI=0.0469, FCE=0.6146, CV=11.1%
+Puerto de la Cruz (Tenerife) — CFI=0.0467, FCE=0.6167, CV=19.6%
+Tegueste (Tenerife) — CFI=0.0465, FCE=0.6232, CV=13.9%
+La Victoria de Acentejo (Tenerife) — CFI=0.0465, FCE=0.6153, CV=11.8%
+Santa Úrsula (Tenerife) — CFI=0.0462, FCE=0.6178, CV=13.9%
+El Sauzal (Tenerife) — CFI=0.0458, FCE=0.6122, CV=13.7%
+Icod de los Vinos (Tenerife) — CFI=0.0458, FCE=0.6123, CV=13.9%
+
+=== ESTADÍSTICOS REGIONALES ===
+
+Total municipios analizados: 83
+CFI regional — media: 0.0304, min: 0.0000, max: 0.3056
+FCE regional — media: 0.1998, min: 0.0000, max: 0.7609
+Percentil 75 CFI: 0.0457
+Percentil 75 FCE: 0.3342

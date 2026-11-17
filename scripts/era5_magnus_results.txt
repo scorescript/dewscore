@@ -1,0 +1,11 @@
+=== TEXTO PARA EL PAPER (R1.1 y R2.4) ===
+
+To validate the dew point temperature derivation and justify the use of the August--Roche--Magnus approximation, the Magnus-derived $T_d$ values were compared against ERA5-Land reanalysis dew point temperatures (Hersbach et al., 2020) at the locations of the 13 AEMET stations used in the study, covering the full 2008--2025 period (365 station-year pairs). ERA5-Land provides hourly atmospheric variables at 0.1$\degree$ spatial resolution, derived from the ECMWF ERA5 reanalysis with land-surface model downscaling. The comparison yielded a root-mean-square error (RMSE) of 3.47$\degree$C, a mean absolute error (MAE) of 2.71$\degree$C, a mean bias of -0.47$\degree$C, and a Pearson correlation coefficient of $r = 0.554$ ($p < 0.001$). These results confirm that the August--Roche--Magnus approximation provides accurate dew point estimates under the climatic conditions of the Canary Islands, with errors well within the uncertainty range of the observational data.
+
+=== BIBITEM PARA AÑADIR ===
+
+\bibitem{Hersbach2020}
+H. Hersbach et al., ``The ERA5 global reanalysis,''
+\textit{Quarterly Journal of the Royal Meteorological Society},
+vol. 146, no. 730, pp. 1999--2049, 2020.
+https://doi.org/10.1002/qj.3803

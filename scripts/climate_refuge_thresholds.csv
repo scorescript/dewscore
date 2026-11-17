@@ -1,0 +1,84 @@
+nombre,isla,cfi_mean,fce_mean,tgap_mean,tgap_cv_pct,n_años,climate_refuge
+Santa Brígida,Gran Canaria,0.3056,0.3362,7.522,46.15,18,False
+Vega de San Mateo,Gran Canaria,0.3022,0.3323,7.699,46.44,18,False
+Valsequillo,Gran Canaria,0.302,0.3239,7.813,46.59,18,False
+Valleseco,Gran Canaria,0.2058,0.7483,4.449,26.31,18,True
+Artenara,Gran Canaria,0.2014,0.4741,7.619,18.35,18,True
+Teror,Gran Canaria,0.1124,0.7609,3.808,22.45,18,True
+Teguise,Lanzarote,0.1023,0.3187,4.05,38.2,9,False
+Puntagorda,La Palma,0.053,0.247,12.31,0.0,1,False
+San Andrés y Sauces,La Palma,0.053,0.247,12.31,0.0,1,False
+San Cristóbal de La Laguna,Tenerife,0.0495,0.6356,4.079,15.55,12,True
+La Orotava,Tenerife,0.0481,0.6318,4.126,16.41,12,True
+La Guancha,Tenerife,0.0476,0.6132,4.062,14.79,12,True
+San Juan de la Rambla,Tenerife,0.0475,0.6174,3.966,12.86,11,True
+El Tanque,Tenerife,0.0472,0.6135,4.016,10.75,11,True
+La Matanza de Acentejo,Tenerife,0.0469,0.6146,4.01,11.06,11,True
+Puerto de la Cruz,Tenerife,0.0467,0.6167,4.163,19.59,12,True
+Tegueste,Tenerife,0.0465,0.6232,4.126,13.93,12,True
+La Victoria de Acentejo,Tenerife,0.0465,0.6153,4.064,11.79,11,True
+Santa Úrsula,Tenerife,0.0462,0.6178,4.127,13.92,12,True
+El Sauzal,Tenerife,0.0458,0.6122,4.12,13.69,12,True
+Icod de los Vinos,Tenerife,0.0458,0.6123,4.128,13.91,12,True
+Buenavista del Norte,Tenerife,0.0457,0.6142,4.021,11.5,11,False
+Tacoronte,Tenerife,0.0453,0.6163,4.143,13.86,12,False
+Garachico,Tenerife,0.0433,0.6091,4.104,10.49,12,False
+Los Silos,Tenerife,0.0426,0.6089,4.056,11.17,11,False
+Los Realejos,Tenerife,0.0417,0.5985,4.026,10.49,11,False
+Yaiza,Lanzarote,0.0162,0.0007,4.823,24.31,12,False
+Tías,Lanzarote,0.0147,0.2972,4.49,12.66,12,False
+Tinajo,Lanzarote,0.0068,0.2936,4.365,9.07,11,False
+Antigua,Fuerteventura,0.0062,0.1329,5.716,8.86,11,False
+Betancuria,Fuerteventura,0.0062,0.1341,5.738,9.49,11,False
+San Bartolomé de Tirajana,Gran Canaria,0.0046,0.1145,9.718,10.76,17,False
+Haría,Lanzarote,0.0046,0.1871,4.778,7.92,11,False
+Las Palmas de Gran Canaria,Gran Canaria,0.0042,0.1033,4.648,9.39,18,False
+Santa Lucía de Tirajana,Gran Canaria,0.0042,0.1208,9.612,12.25,17,False
+Valle Gran Rey,La Gomera,0.003,0.06,6.45,0.0,1,False
+Alajeró,La Gomera,0.003,0.06,6.45,0.0,1,False
+Pájara,Fuerteventura,0.0026,0.0366,6.716,21.41,8,False
+Puntallana,La Palma,0.0026,0.0149,6.145,6.01,11,False
+Villa de Mazo,La Palma,0.0026,0.0139,6.155,6.12,11,False
+Santa Cruz de la Palma,La Palma,0.0024,0.0137,6.122,5.63,12,False
+Breña Baja,La Palma,0.0024,0.0139,6.151,5.25,12,False
+Fuencaliente de la Palma,La Palma,0.0024,0.0135,6.13,5.67,12,False
+La Oliva,Fuerteventura,0.0012,0.2922,4.988,11.15,12,False
+Ingenio,Gran Canaria,0.0012,0.0109,8.272,8.1,18,False
+Agüimes,Gran Canaria,0.0011,0.0114,8.131,7.1,18,False
+Breña Alta,La Palma,0.001,0.0114,6.154,6.41,11,False
+Firgas,Gran Canaria,0.0008,0.02,5.098,7.51,18,False
+Moya,Gran Canaria,0.0008,0.0213,5.092,8.43,18,False
+Valverde,El Hierro,0.0008,0.0079,5.689,5.55,11,False
+Frontera,El Hierro,0.0008,0.0076,5.699,7.84,11,False
+El Pinar de El Hierro,El Hierro,0.0008,0.008,5.665,7.88,11,False
+Arucas,Gran Canaria,0.0007,0.0199,5.147,7.24,18,False
+Tejeda,Gran Canaria,0.0007,0.0203,12.44,20.3,9,False
+Telde,Gran Canaria,0.0005,0.0022,6.972,10.27,18,False
+Santa Cruz de Tenerife,Tenerife,0.0005,0.0038,7.686,5.49,12,False
+El Rosario,Tenerife,0.0005,0.0033,7.741,4.74,12,False
+Mogán,Gran Canaria,0.0003,0.0114,6.808,10.66,21,False
+La Aldea de San Nicolás,Gran Canaria,0.0003,0.0208,7.698,7.78,16,False
+San Bartolomé,Lanzarote,0.0003,0.0117,7.391,5.46,11,False
+El Paso,La Palma,0.0003,0.0107,7.065,10.53,11,False
+Tazacorte,La Palma,0.0003,0.0121,7.052,11.23,11,False
+Tijarafe,La Palma,0.0003,0.0105,7.027,11.17,11,False
+Arrecife,Lanzarote,0.0002,0.011,7.411,5.39,12,False
+Los Llanos de Aridane,La Palma,0.0002,0.0103,7.131,10.98,12,False
+Agaete,Gran Canaria,0.0,0.0,7.224,5.67,18,False
+Güímar,Tenerife,0.0,0.0225,6.85,6.04,6,False
+Guía de Isora,Tenerife,0.0,0.0037,7.821,5.4,12,False
+Tuineje,Fuerteventura,0.0,0.0023,6.908,5.57,12,False
+Gáldar,Gran Canaria,0.0,0.0,7.232,5.31,18,False
+Santa María de Guía,Gran Canaria,0.0,0.0,7.253,6.19,18,False
+Candelaria,Tenerife,0.0,0.021,6.948,6.52,6,False
+Arico,Tenerife,0.0,0.0039,7.833,5.42,12,False
+Fasnia,Tenerife,0.0,0.0205,6.915,6.12,6,False
+Arafo,Tenerife,0.0,0.0228,6.908,6.07,6,False
+Arona,Tenerife,0.0,0.0037,7.821,5.4,12,False
+Adeje,Tenerife,0.0,0.0037,7.821,5.4,12,False
+Granadilla de Abona,Tenerife,0.0,0.0035,7.77,5.21,11,False
+Santiago del Teide,Tenerife,0.0,0.0035,7.77,5.21,11,False
+San Miguel de Abona,Tenerife,0.0,0.0034,7.724,5.99,11,False
+Vilaflor,Tenerife,0.0,0.0025,7.77,5.21,11,False
+Puerto del Rosario,Fuerteventura,0.0,0.0026,6.812,10.15,11,False
+San Sebastián de La Gomera,La Gomera,0.0,0.054,6.49,0.0,1,False

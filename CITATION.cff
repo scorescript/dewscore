@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "DewScore"
+type: software
+authors:
+  - family-names: "Ferrer P."
+    given-names: "Miguel"
+    affiliation: "SIANI, Universidad de Las Palmas de Gran Canaria"
+license: MIT
+repository-code: "https://github.com/scorescript/dewscore"
+url: "https://dewscore.eu"
+date-released: "2026-11-17"

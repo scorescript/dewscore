@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Términos de Uso — DewScore</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a1628;
+    --surface: #0f2040;
+    --border: #1e4976;
+    --accent: #00d4ff;
+    --text: #e0f0ff;
+    --muted: #4a7a9b;
+    --muted2: #7aafc8;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Space Grotesk', sans-serif;
+    min-height: 100vh;
+  }
+
+  header {
+    padding: 16px 40px;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .logo {
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 1.1rem;
+    text-decoration: none;
+    color: var(--text);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .logo span { color: var(--accent); }
+
+  .back-btn {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--muted2);
+    text-decoration: none;
+    border: 1px solid var(--border);
+    padding: 5px 12px;
+    border-radius: 4px;
+    transition: all 0.15s;
+  }
+
+  .back-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  main {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 60px 40px;
+  }
+
+  .doc-title {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.7rem;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    margin-bottom: 12px;
+  }
+
+  h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 8px;
+    line-height: 1.2;
+  }
+
+  .doc-date {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--muted2);
+    margin-bottom: 48px;
+  }
+
+  h2 {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin-top: 40px;
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  p {
+    font-size: 0.9rem;
+    color: var(--muted2);
+    line-height: 1.75;
+    margin-bottom: 16px;
+  }
+
+  strong { color: var(--text); }
+
+  ul {
+    list-style: none;
+    margin-bottom: 16px;
+  }
+
+  ul li {
+    font-size: 0.9rem;
+    color: var(--muted2);
+    line-height: 1.75;
+    padding-left: 16px;
+    position: relative;
+    margin-bottom: 6px;
+  }
+
+  ul li::before {
+    content: '—';
+    position: absolute;
+    left: 0;
+    color: var(--accent);
+  }
+
+  .highlight {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: 0 6px 6px 0;
+    padding: 16px 20px;
+    margin: 20px 0;
+    font-size: 0.85rem;
+    color: var(--muted2);
+    line-height: 1.65;
+  }
+
+  .cite-box {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 16px 20px;
+    font-family: 'Space Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--muted2);
+    line-height: 1.7;
+    margin: 16px 0;
+  }
+
+  footer {
+    text-align: center;
+    padding: 32px;
+    border-top: 1px solid var(--border);
+    font-family: 'Space Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--muted);
+    margin-top: 60px;
+  }
+
+  footer a { color: var(--muted2); text-decoration: none; }
+  footer a:hover { color: var(--accent); }
+</style>
+</head>
+<body>
+
+<header>
+  <a href="/" class="logo">Dew<span>Score</span></a>
+  <a href="/" class="back-btn">← Volver al mapa</a>
+</header>
+
+<main>
+  <div class="doc-title">Documento legal</div>
+  <h1>Términos de Uso</h1>
+  <div class="doc-date">Última actualización: junio de 2025 · Versión 1.0</div>
+
+  <p>
+    El acceso y uso de <strong>ScoreSCript</strong> (scriptcore.eu) implica la aceptación
+    de los presentes Términos de Uso. Si no está de acuerdo con alguno de los términos
+    aquí establecidos, le rogamos que no utilice esta plataforma.
+  </p>
+
+  <h2>1. Descripción del servicio</h2>
+  <p>
+    ScoreScript es una plataforma de análisis geoespacial de acceso libre destinada a la
+    evaluación territorial del potencial de condensación atmosférica. Proporciona datos
+    climatológicos procesados e índices científicos derivados para uso en investigación,
+    educación y análisis territorial.
+  </p>
+  <p>
+El servicio es proporcionado por Miguel F. Ferrer Pareja, ingeniero e investigador en ingeniería computacional, especializado en modelización numérica, análisis geoespacial y evaluación de recursos sostenibles.
+  </p>
+
+  <h2>2. Uso permitido</h2>
+  <p>El usuario queda autorizado a:</p>
+  <ul>
+    <li>Consultar libremente los datos e índices disponibles en la plataforma</li>
+    <li>Utilizar los datos con fines de investigación científica, educación y análisis territorial</li>
+    <li>Citar los índices y metodologías de DewScore en publicaciones académicas, siempre
+    que se incluya la referencia correspondiente</li>
+  </ul>
+
+  <p>Formato de cita recomendado:</p>
+  <div class="cite-box">
+    Ferrer Pareja, M.F. (2026). ScoreScript: A geospatial platform for atmospheric condensation
+    feasibility assessment at municipal scale. Gran Canaria, Spain. scorescript.eu
+  </div>
+
+  <h2>3. Uso prohibido</h2>
+  <p>Queda expresamente prohibido:</p>
+  <ul>
+    <li>Reproducir, redistribuir o comercializar el software de DewScore sin autorización
+    expresa por escrito</li>
+    <li>Utilizar los datos o la plataforma para fines que contravengan la legislación
+    española o de la Unión Europea</li>
+    <li>Intentar acceder a partes no públicas de la infraestructura técnica de DewScore</li>
+    <li>Realizar scraping automatizado masivo de los datos sin autorización previa</li>
+    <li>Atribuir falsamente la autoría de los índices o metodologías implementados</li>
+  </ul>
+
+  <h2>4. Propiedad intelectual</h2>
+  <p>
+    Los índices científicos implementados en DewScore — incluyendo la formulación específica
+    del <strong>Condensation Feasibility Index (CFI)</strong> y su implementación geoespacial —
+    son metodología propia del equipo de ScoreScript y están protegidos por la legislación
+    de propiedad intelectual aplicable.
+  </p>
+  <p>
+    Los datos fuente utilizados pertenecen a sus respectivos organismos públicos:
+    AEMET, Instituto Geográfico Nacional (IGN), PVGIS (Comisión Europea) y
+    Copernicus Climate Data Store. ScoreScript no reclama derechos sobre dichos datos.
+  </p>
+
+  <h2>5. Limitación de responsabilidad</h2>
+  <div class="highlight">
+    Los datos e índices proporcionados por DewScore tienen carácter informativo y científico.
+    DewScore no garantiza la exactitud absoluta, completitud o idoneidad de los datos para
+    ningún propósito específico. El uso de los datos para decisiones de inversión,
+    construcción, planificación urbanística o cualquier decisión con impacto económico,
+    jurídico o de seguridad es responsabilidad exclusiva del usuario.
+  </div>
+  <p>
+    En ningún caso DewScore, sus creadores o colaboradores serán responsables de daños
+    directos, indirectos, incidentales o consecuentes derivados del uso o imposibilidad
+    de uso de la plataforma o de sus datos.
+  </p>
+
+  <h2>6. Disponibilidad del servicio</h2>
+  <p>
+    DewScore es un proyecto de investigación en desarrollo activo. Nos reservamos el
+    derecho a modificar, suspender o interrumpir el servicio en cualquier momento sin
+    previo aviso. No garantizamos la disponibilidad ininterrumpida de la plataforma.
+  </p>
+
+  <h2>7. Modificaciones de los términos</h2>
+  <p>
+    Nos reservamos el derecho a actualizar estos Términos de Uso en cualquier momento.
+    La fecha de última actualización aparece al inicio de este documento. El uso continuado
+    de DewScore tras la publicación de cambios implica la aceptación de los términos
+    actualizados.
+  </p>
+
+  <h2>8. Resolución de disputas</h2>
+  <p>
+    Estos Términos de Uso se rigen por la legislación española y la normativa de la
+    Unión Europea. Para usuarios dentro de la UE, cualquier disputa será sometida a la
+    jurisdicción de los tribunales españoles competentes, sin perjuicio de los derechos
+    que la normativa de consumidores de la UE reconoce a los usuarios en su país de
+    residencia.
+  </p>
+  <p>
+    Para usuarios fuera de la Unión Europea, cualquier disputa que no pueda resolverse
+    amistosamente será sometida a arbitraje vinculante bajo las reglas de la Cámara de
+    Comercio Internacional (ICC), con sede en París.
+  </p>
+
+  <h2>9. Contacto</h2>
+  <p>
+    Para cualquier consulta relacionada con estos Términos de Uso, puede contactar con
+    nosotros en: <strong>contacto@scorescript.eu</strong>
+  </p>
+</main>
+
+<footer>
+  <a href="/">ScoreScript</a> &nbsp;·&nbsp;
+  <a href="/privacy.html">Privacidad</a> &nbsp;·&nbsp;
+  <a href="/terms.html">Términos</a> &nbsp;·&nbsp;
+  contacto@scorescript.eu
+</footer>
+
+</body>
+</html>

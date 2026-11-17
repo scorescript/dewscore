@@ -1,0 +1,831 @@
+ine,nombre,comunidad,provincia,lat,lng
+11001,Alcalá de los Gazules,Andalucía,Cádiz,36.43734,-5.69072
+11006,Arcos de la Frontera,Andalucía,Cádiz,36.74944,-5.74856
+11007,Barbate,Andalucía,Cádiz,36.185,-5.86146
+11012,Cádiz,Andalucía,Cádiz,36.4903,-6.26761
+11014,Conil de la Frontera,Andalucía,Cádiz,36.29491,-6.08445
+11015,Chiclana de la Frontera,Andalucía,Cádiz,36.40128,-6.11585
+11016,Chipiona,Andalucía,Cádiz,36.7287,-6.40665
+11017,Espera,Andalucía,Cádiz,36.8783,-5.80406
+11020,Jerez de la Frontera,Andalucía,Cádiz,36.6892,-6.07881
+11023,Medina Sidonia,Andalucía,Cádiz,36.37532,-5.88719
+11025,Paterna de Rivera,Andalucía,Cádiz,36.51825,-5.84869
+11027,El Puerto de Santa María,Andalucía,Cádiz,36.62271,-6.22172
+11028,Puerto Real,Andalucía,Cádiz,36.52788,-6.09581
+11030,Rota,Andalucía,Cádiz,36.67214,-6.35953
+11031,San Fernando,Andalucía,Cádiz,36.44766,-6.20493
+11032,Sanlúcar de Barrameda,Andalucía,Cádiz,36.8077,-6.28844
+11035,Tarifa,Andalucía,Cádiz,36.1289,-5.72043
+11037,Trebujena,Andalucía,Cádiz,36.87148,-6.20867
+11039,Vejer de la Frontera,Andalucía,Cádiz,36.29096,-5.93934
+11901,Benalup-Casas Viejas,Andalucía,Cádiz,36.33261,-5.77498
+11902,San José del Valle,Andalucía,Cádiz,36.62014,-5.7429
+21001,Alájar,Andalucía,Huelva,37.84533,-6.65765
+21002,Aljaraque,Andalucía,Huelva,37.28126,-7.02855
+21003,El Almendro,Andalucía,Huelva,37.56021,-7.37174
+21004,Almonaster la Real,Andalucía,Huelva,37.79299,-6.76804
+21005,Almonte,Andalucía,Huelva,37.05997,-6.55016
+21006,Alosno,Andalucía,Huelva,37.55849,-7.099
+21007,Aracena,Andalucía,Huelva,37.86863,-6.52811
+21008,Aroche,Andalucía,Huelva,37.95906,-6.98465
+21009,Arroyomolinos de León,Andalucía,Huelva,38.0025,-6.42496
+21010,Ayamonte,Andalucía,Huelva,37.27499,-7.393
+21011,Beas,Andalucía,Huelva,37.45879,-6.80906
+21012,Berrocal,Andalucía,Huelva,37.56469,-6.5247
+21013,Bollullos Par del Condado,Andalucía,Huelva,37.32497,-6.52717
+21014,Bonares,Andalucía,Huelva,37.2711,-6.6846
+21015,Cabezas Rubias,Andalucía,Huelva,37.7653,-7.10567
+21016,Cala,Andalucía,Huelva,37.96771,-6.31574
+21017,Calañas,Andalucía,Huelva,37.58887,-6.91295
+21018,El Campillo,Andalucía,Huelva,37.68666,-6.61627
+21019,Campofrío,Andalucía,Huelva,37.76962,-6.58459
+21020,Cañaveral de León,Andalucía,Huelva,37.99151,-6.50541
+21021,Cartaya,Andalucía,Huelva,37.30881,-7.13543
+21022,Castaño del Robledo,Andalucía,Huelva,37.88485,-6.68256
+21023,El Cerro de Andévalo,Andalucía,Huelva,37.70382,-7.03067
+21024,Corteconcepción,Andalucía,Huelva,37.92984,-6.48811
+21025,Cortegana,Andalucía,Huelva,37.81065,-6.98666
+21026,Cortelazor,Andalucía,Huelva,37.95418,-6.62163
+21027,Cumbres de Enmedio,Andalucía,Huelva,38.07487,-6.69331
+21028,Cumbres de San Bartolomé,Andalucía,Huelva,38.05726,-6.79538
+21029,Cumbres Mayores,Andalucía,Huelva,38.03147,-6.65846
+21030,Chucena,Andalucía,Huelva,37.35248,-6.39541
+21031,Encinasola,Andalucía,Huelva,38.11595,-6.908
+21032,Escacena del Campo,Andalucía,Huelva,37.49882,-6.37383
+21033,Fuenteheridos,Andalucía,Huelva,37.90702,-6.66245
+21034,Galaroza,Andalucía,Huelva,37.92729,-6.68956
+21035,Gibraleón,Andalucía,Huelva,37.38357,-6.98183
+21036,La Granada de Río-Tinto,Andalucía,Huelva,37.76522,-6.50688
+21037,El Granado,Andalucía,Huelva,37.50064,-7.37772
+21038,Higuera de la Sierra,Andalucía,Huelva,37.83607,-6.44721
+21039,Hinojales,Andalucía,Huelva,37.99923,-6.57975
+21040,Hinojos,Andalucía,Huelva,37.15656,-6.40331
+21041,Huelva,Andalucía,Huelva,37.23769,-6.95684
+21042,Isla Cristina,Andalucía,Huelva,37.22428,-7.27505
+21043,Jabugo,Andalucía,Huelva,37.91041,-6.74436
+21044,Lepe,Andalucía,Huelva,37.29459,-7.22399
+21045,Linares de la Sierra,Andalucía,Huelva,37.85346,-6.60415
+21046,Lucena del Puerto,Andalucía,Huelva,37.20828,-6.74533
+21047,Manzanilla,Andalucía,Huelva,37.40985,-6.45246
+21048,Los Marines,Andalucía,Huelva,37.90477,-6.61782
+21049,Minas de Riotinto,Andalucía,Huelva,37.68875,-6.57598
+21050,Moguer,Andalucía,Huelva,37.20421,-6.81216
+21051,La Nava,Andalucía,Huelva,37.97029,-6.75901
+21052,Nerva,Andalucía,Huelva,37.69753,-6.52403
+21053,Niebla,Andalucía,Huelva,37.41648,-6.70395
+21054,La Palma del Condado,Andalucía,Huelva,37.40964,-6.55848
+21055,Palos de la Frontera,Andalucía,Huelva,37.1658,-6.88387
+21056,Paterna del Campo,Andalucía,Huelva,37.46729,-6.47245
+21057,Paymogo,Andalucía,Huelva,37.76119,-7.3246
+21058,Puebla de Guzmán,Andalucía,Huelva,37.62245,-7.32698
+21059,Puerto Moral,Andalucía,Huelva,37.89706,-6.4609
+21060,Punta Umbría,Andalucía,Huelva,37.21265,-7.01619
+21061,Rociana del Condado,Andalucía,Huelva,37.292,-6.60795
+21062,Rosal de la Frontera,Andalucía,Huelva,37.93504,-7.18927
+21063,San Bartolomé de la Torre,Andalucía,Huelva,37.43429,-7.09545
+21064,San Juan del Puerto,Andalucía,Huelva,37.33264,-6.85072
+21065,Sanlúcar de Guadiana,Andalucía,Huelva,37.44753,-7.40645
+21066,San Silvestre de Guzmán,Andalucía,Huelva,37.38419,-7.37662
+21067,Santa Ana la Real,Andalucía,Huelva,37.85555,-6.72254
+21068,Santa Bárbara de Casa,Andalucía,Huelva,37.77441,-7.20137
+21069,Santa Olalla del Cala,Andalucía,Huelva,37.87507,-6.2228
+21070,Trigueros,Andalucía,Huelva,37.41249,-6.84048
+21071,Valdelarco,Andalucía,Huelva,37.95278,-6.67292
+21072,Valverde del Camino,Andalucía,Huelva,37.56306,-6.74027
+21073,Villablanca,Andalucía,Huelva,37.30389,-7.33189
+21074,Villalba del Alcor,Andalucía,Huelva,37.40109,-6.48711
+21075,Villanueva de las Cruces,Andalucía,Huelva,37.61994,-7.02406
+21076,Villanueva de los Castillejos,Andalucía,Huelva,37.44796,-7.23506
+21077,Villarrasa,Andalucía,Huelva,37.39725,-6.63242
+21078,Zalamea la Real,Andalucía,Huelva,37.61889,-6.64791
+21079,Zufre,Andalucía,Huelva,37.83808,-6.33681
+21902,La Zarza-Perrunal,Andalucía,Huelva,37.69084,-6.86457
+41003,Albaida del Aljarafe,Andalucía,Sevilla,37.44076,-6.17886
+41004,Alcalá de Guadaíra,Andalucía,Sevilla,37.28985,-5.81238
+41005,Alcalá del Río,Andalucía,Sevilla,37.55304,-5.96659
+41007,La Algaba,Andalucía,Sevilla,37.48114,-6.01389
+41009,Almadén de la Plata,Andalucía,Sevilla,37.84535,-6.03709
+41010,Almensilla,Andalucía,Sevilla,37.30552,-6.11055
+41012,Aznalcázar,Andalucía,Sevilla,37.11355,-6.29651
+41013,Aznalcóllar,Andalucía,Sevilla,37.5418,-6.30266
+41015,Benacazón,Andalucía,Sevilla,37.33727,-6.20241
+41016,Bollullos de la Mitación,Andalucía,Sevilla,37.31524,-6.15987
+41017,Bormujos,Andalucía,Sevilla,37.36488,-6.08505
+41018,Brenes,Andalucía,Sevilla,37.55384,-5.87248
+41019,Burguillos,Andalucía,Sevilla,37.59632,-5.96041
+41020,Las Cabezas de San Juan,Andalucía,Sevilla,36.98624,-5.91749
+41021,Camas,Andalucía,Sevilla,37.40025,-6.0339
+41023,Cantillana,Andalucía,Sevilla,37.62272,-5.82409
+41024,Carmona,Andalucía,Sevilla,37.43406,-5.61511
+41025,Carrión de los Céspedes,Andalucía,Sevilla,37.36179,-6.32778
+41027,Castilblanco de los Arroyos,Andalucía,Sevilla,37.70845,-5.96586
+41028,Castilleja de Guzmán,Andalucía,Sevilla,37.40822,-6.05352
+41029,Castilleja de la Cuesta,Andalucía,Sevilla,37.38486,-6.0553
+41030,Castilleja del Campo,Andalucía,Sevilla,37.39076,-6.33286
+41031,El Castillo de las Guardas,Andalucía,Sevilla,37.69048,-6.31873
+41032,Cazalla de la Sierra,Andalucía,Sevilla,37.92889,-5.82653
+41034,Coria del Río,Andalucía,Sevilla,37.24646,-6.02454
+41038,Dos Hermanas,Andalucía,Sevilla,37.25744,-5.94477
+41040,Espartinas,Andalucía,Sevilla,37.38688,-6.12989
+41043,El Garrobo,Andalucía,Sevilla,37.63062,-6.18497
+41044,Gelves,Andalucía,Sevilla,37.33287,-6.02623
+41045,Gerena,Andalucía,Sevilla,37.55552,-6.17449
+41047,Gines,Andalucía,Sevilla,37.38703,-6.07567
+41048,Guadalcanal,Andalucía,Sevilla,38.0979,-5.83088
+41049,Guillena,Andalucía,Sevilla,37.60743,-6.07764
+41051,Huévar del Aljarafe,Andalucía,Sevilla,37.35997,-6.27809
+41053,Lebrija,Andalucía,Sevilla,36.96056,-6.08418
+41057,El Madroño,Andalucía,Sevilla,37.65422,-6.45328
+41058,Mairena del Alcor,Andalucía,Sevilla,37.34667,-5.72451
+41059,Mairena del Aljarafe,Andalucía,Sevilla,37.33949,-6.06344
+41067,Olivares,Andalucía,Sevilla,37.45188,-6.15207
+41069,Los Palacios y Villafranca,Andalucía,Sevilla,37.14753,-5.9198
+41070,Palomares del Río,Andalucía,Sevilla,37.31482,-6.05924
+41073,El Pedroso,Andalucía,Sevilla,37.78436,-5.79626
+41075,Pilas,Andalucía,Sevilla,37.30618,-6.314
+41079,La Puebla del Río,Andalucía,Sevilla,37.09727,-6.09148
+41080,El Real de la Jara,Andalucía,Sevilla,37.95167,-6.05546
+41081,La Rinconada,Andalucía,Sevilla,37.46943,-5.90642
+41083,El Ronquillo,Andalucía,Sevilla,37.74026,-6.17969
+41085,Salteras,Andalucía,Sevilla,37.44894,-6.11411
+41086,San Juan de Aznalfarache,Andalucía,Sevilla,37.36234,-6.03415
+41087,Sanlúcar la Mayor,Andalucía,Sevilla,37.48811,-6.21537
+41089,Santiponce,Andalucía,Sevilla,37.43369,-6.04469
+41091,Sevilla,Andalucía,Sevilla,37.38261,-5.95922
+41093,Tomares,Andalucía,Sevilla,37.36915,-6.04861
+41094,Umbrete,Andalucía,Sevilla,37.36572,-6.17152
+41095,Utrera,Andalucía,Sevilla,37.08449,-5.86574
+41096,Valencina de la Concepción,Andalucía,Sevilla,37.42351,-6.06274
+41097,Villamanrique de la Condesa,Andalucía,Sevilla,37.22196,-6.31735
+41098,Villanueva del Ariscal,Andalucía,Sevilla,37.39967,-6.15052
+41101,Villaverde del Río,Andalucía,Sevilla,37.60111,-5.89253
+41902,Isla Mayor,Andalucía,Sevilla,37.11686,-6.19549
+41903,El Cuervo de Sevilla,Andalucía,Sevilla,36.86757,-6.02167
+41904,El Palmar de Troya,Andalucía,Sevilla,37.05453,-5.78739
+11002,Alcalá del Valle,Andalucía,Cádiz,36.92294,-5.14604
+11003,Algar,Andalucía,Cádiz,36.65801,-5.64853
+11004,Algeciras,Andalucía,Cádiz,36.11295,-5.49229
+11005,Algodonales,Andalucía,Cádiz,36.88886,-5.42945
+11008,Los Barrios,Andalucía,Cádiz,36.23071,-5.568
+11009,Benaocaz,Andalucía,Cádiz,36.7042,-5.46772
+11010,Bornos,Andalucía,Cádiz,36.85243,-5.71181
+11011,El Bosque,Andalucía,Cádiz,36.75358,-5.50747
+11013,Castellar de la Frontera,Andalucía,Cádiz,36.30723,-5.44748
+11018,El Gastor,Andalucía,Cádiz,36.84115,-5.35026
+11019,Grazalema,Andalucía,Cádiz,36.77042,-5.38603
+11021,Jimena de la Frontera,Andalucía,Cádiz,36.44234,-5.46687
+11022,La Línea de la Concepción,Andalucía,Cádiz,36.20161,-5.34353
+11024,Olvera,Andalucía,Cádiz,36.9532,-5.32956
+11026,Prado del Rey,Andalucía,Cádiz,36.78433,-5.55167
+11029,Puerto Serrano,Andalucía,Cádiz,36.97263,-5.46912
+11033,San Roque,Andalucía,Cádiz,36.2529,-5.35155
+11034,Setenil de las Bodegas,Andalucía,Cádiz,36.87682,-5.18955
+11036,Torre Alháquime,Andalucía,Cádiz,36.90788,-5.23156
+11038,Ubrique,Andalucía,Cádiz,36.65659,-5.46062
+11040,Villaluenga del Rosario,Andalucía,Cádiz,36.68062,-5.36871
+11041,Villamartín,Andalucía,Cádiz,36.86976,-5.59731
+11042,Zahara,Andalucía,Cádiz,36.82744,-5.44231
+11903,San Martín del Tesorillo,Andalucía,Cádiz,36.36755,-5.37273
+14001,Adamuz,Andalucía,Córdoba,38.10869,-4.57887
+14002,Aguilar de la Frontera,Andalucía,Córdoba,37.43245,-4.66385
+14003,Alcaracejos,Andalucía,Córdoba,38.30286,-4.93887
+14004,Almedinilla,Andalucía,Córdoba,37.4432,-4.07191
+14005,Almodóvar del Río,Andalucía,Córdoba,37.83441,-5.00342
+14006,Añora,Andalucía,Córdoba,38.32274,-4.86688
+14007,Baena,Andalucía,Córdoba,37.67842,-4.28901
+14008,Belalcázar,Andalucía,Córdoba,38.58939,-5.17088
+14009,Belmez,Andalucía,Córdoba,38.26546,-5.16664
+14010,Benamejí,Andalucía,Córdoba,37.24944,-4.52847
+14011,Los Blázquez,Andalucía,Córdoba,38.43253,-5.45946
+14012,Bujalance,Andalucía,Córdoba,37.90857,-4.384
+14013,Cabra,Andalucía,Córdoba,37.48731,-4.45684
+14014,Cañete de las Torres,Andalucía,Córdoba,37.8494,-4.31876
+14015,Carcabuey,Andalucía,Córdoba,37.44135,-4.29752
+14016,Cardeña,Andalucía,Córdoba,38.28026,-4.38163
+14017,La Carlota,Andalucía,Córdoba,37.66535,-4.92492
+14018,El Carpio,Andalucía,Córdoba,37.94153,-4.49029
+14019,Castro del Río,Andalucía,Córdoba,37.665,-4.47419
+14020,Conquista,Andalucía,Córdoba,38.40782,-4.49595
+14021,Córdoba,Andalucía,Córdoba,37.84903,-4.6809
+14022,Doña Mencía,Andalucía,Córdoba,37.55258,-4.36445
+14023,Dos Torres,Andalucía,Córdoba,38.48402,-4.86406
+14024,Encinas Reales,Andalucía,Córdoba,37.27351,-4.48115
+14025,Espejo,Andalucía,Córdoba,37.6676,-4.56177
+14026,Espiel,Andalucía,Córdoba,38.12971,-5.022
+14027,Fernán-Núñez,Andalucía,Córdoba,37.68833,-4.73233
+14028,Fuente la Lancha,Andalucía,Córdoba,38.41938,-5.04927
+14029,Fuente Obejuna,Andalucía,Córdoba,38.29095,-5.41637
+14030,Fuente Palmera,Andalucía,Córdoba,37.72482,-5.09843
+14031,Fuente-Tójar,Andalucía,Córdoba,37.52383,-4.12623
+14032,La Granjuela,Andalucía,Córdoba,38.3568,-5.34212
+14033,Guadalcázar,Andalucía,Córdoba,37.75517,-4.95608
+14034,El Guijo,Andalucía,Córdoba,38.52476,-4.75525
+14035,Hinojosa del Duque,Andalucía,Córdoba,38.45224,-5.15972
+14036,Hornachuelos,Andalucía,Córdoba,37.92995,-5.26465
+14037,Iznájar,Andalucía,Córdoba,37.26294,-4.31935
+14038,Lucena,Andalucía,Córdoba,37.35604,-4.53241
+14039,Luque,Andalucía,Córdoba,37.55652,-4.24317
+14040,Montalbán de Córdoba,Andalucía,Córdoba,37.548,-4.7436
+14041,Montemayor,Andalucía,Córdoba,37.65587,-4.65891
+14042,Montilla,Andalucía,Córdoba,37.5726,-4.64074
+14043,Montoro,Andalucía,Córdoba,38.09611,-4.35374
+14044,Monturque,Andalucía,Córdoba,37.47495,-4.58543
+14045,Moriles,Andalucía,Córdoba,37.42419,-4.63683
+14046,Nueva Carteya,Andalucía,Córdoba,37.61442,-4.45559
+14047,Obejo,Andalucía,Córdoba,38.06596,-4.75916
+14048,Palenciana,Andalucía,Córdoba,37.24882,-4.58962
+14049,Palma del Río,Andalucía,Córdoba,37.66456,-5.31092
+14050,Pedro Abad,Andalucía,Córdoba,37.96907,-4.44842
+14051,Pedroche,Andalucía,Córdoba,38.4113,-4.74669
+14052,Peñarroya-Pueblonuevo,Andalucía,Córdoba,38.30618,-5.2542
+14053,Posadas,Andalucía,Córdoba,37.82862,-5.11861
+14054,Pozoblanco,Andalucía,Córdoba,38.25966,-4.75327
+14055,Priego de Córdoba,Andalucía,Córdoba,37.44922,-4.17458
+14056,Puente Genil,Andalucía,Córdoba,37.40539,-4.76406
+14057,La Rambla,Andalucía,Córdoba,37.66768,-4.77317
+14058,Rute,Andalucía,Córdoba,37.34308,-4.34936
+14059,San Sebastián de los Ballesteros,Andalucía,Córdoba,37.66984,-4.81628
+14060,Santaella,Andalucía,Córdoba,37.51811,-4.85134
+14061,Santa Eufemia,Andalucía,Córdoba,38.61921,-4.93063
+14062,Torrecampo,Andalucía,Córdoba,38.46718,-4.6169
+14063,Valenzuela,Andalucía,Córdoba,37.76531,-4.24169
+14064,Valsequillo,Andalucía,Córdoba,38.46296,-5.37993
+14065,La Victoria,Andalucía,Córdoba,37.70102,-4.85552
+14066,Villa del Río,Andalucía,Córdoba,37.98415,-4.29299
+14067,Villafranca de Córdoba,Andalucía,Córdoba,37.95173,-4.55449
+14068,Villaharta,Andalucía,Córdoba,38.1393,-4.9034
+14069,Villanueva de Córdoba,Andalucía,Córdoba,38.25281,-4.63031
+14070,Villanueva del Duque,Andalucía,Córdoba,38.35539,-5.01978
+14071,Villanueva del Rey,Andalucía,Córdoba,38.14143,-5.19726
+14072,Villaralto,Andalucía,Córdoba,38.45157,-4.97344
+14073,Villaviciosa de Córdoba,Andalucía,Córdoba,38.0049,-5.01152
+14074,El Viso,Andalucía,Córdoba,38.59925,-5.02934
+14075,Zuheros,Andalucía,Córdoba,37.53023,-4.32931
+14901,Fuente Carreteros,Andalucía,Córdoba,37.67586,-5.13963
+14902,La Guijarrosa,Andalucía,Córdoba,37.62923,-4.87563
+18012,Algarinejo,Andalucía,Granada,37.29934,-4.17375
+18013,Alhama de Granada,Andalucía,Granada,37.00011,-4.00843
+18100,Huétor Tájar,Andalucía,Granada,37.20133,-4.04223
+18122,Loja,Andalucía,Granada,37.15411,-4.20533
+18135,Montefrío,Andalucía,Granada,37.32394,-4.03089
+18138,Moraleda de Zafayona,Andalucía,Granada,37.181,-3.95858
+18171,Salar,Andalucía,Granada,37.13817,-4.0389
+18174,Santa Cruz del Comercio,Andalucía,Granada,37.06427,-3.97287
+18188,Villanueva Mesía,Andalucía,Granada,37.22849,-4.00668
+18192,Zafarraya,Andalucía,Granada,36.9931,-4.15051
+18913,Zagra,Andalucía,Granada,37.25153,-4.1762
+23002,Alcalá la Real,Andalucía,Jaén,37.4596,-3.93084
+23003,Alcaudete,Andalucía,Jaén,37.60574,-4.08233
+23005,Andújar,Andalucía,Jaén,38.18539,-4.04321
+23006,Arjona,Andalucía,Jaén,37.92785,-4.07283
+23007,Arjonilla,Andalucía,Jaén,37.98266,-4.12509
+23026,Castillo de Locubín,Andalucía,Jaén,37.54576,-3.93248
+23031,Escañuela,Andalucía,Jaén,37.87562,-4.02765
+23040,Lahiguera,Andalucía,Jaén,37.96484,-3.99242
+23041,Higuera de Calatrava,Andalucía,Jaén,37.79873,-4.153
+23056,Lopera,Andalucía,Jaén,37.96435,-4.2276
+23059,Marmolejo,Andalucía,Jaén,38.07929,-4.16546
+23060,Martos,Andalucía,Jaén,37.66947,-3.99811
+23069,Porcuna,Andalucía,Jaén,37.85515,-4.19779
+23077,Santiago de Calatrava,Andalucía,Jaén,37.74195,-4.18818
+23086,Torredelcampo,Andalucía,Jaén,37.83325,-3.90344
+23087,Torredonjimeno,Andalucía,Jaén,37.79872,-4.04572
+23098,Villardompardo,Andalucía,Jaén,37.84046,-3.9979
+29001,Alameda,Andalucía,Málaga,37.22662,-4.66471
+29002,Alcaucín,Andalucía,Málaga,36.91202,-4.10586
+29003,Alfarnate,Andalucía,Málaga,36.9886,-4.24453
+29004,Alfarnatejo,Andalucía,Málaga,36.96217,-4.25917
+29005,Algarrobo,Andalucía,Málaga,36.76495,-4.04569
+29006,Algatocín,Andalucía,Málaga,36.57551,-5.28687
+29007,Alhaurín de la Torre,Andalucía,Málaga,36.66161,-4.58149
+29008,Alhaurín el Grande,Andalucía,Málaga,36.6523,-4.67844
+29009,Almáchar,Andalucía,Málaga,36.80221,-4.21914
+29010,Almargen,Andalucía,Málaga,37.02288,-5.02302
+29011,Almogía,Andalucía,Málaga,36.83878,-4.54584
+29012,Álora,Andalucía,Málaga,36.85705,-4.70437
+29013,Alozaina,Andalucía,Málaga,36.7327,-4.85641
+29014,Alpandeire,Andalucía,Málaga,36.64861,-5.21282
+29015,Antequera,Andalucía,Málaga,37.06286,-4.59731
+29016,Árchez,Andalucía,Málaga,36.8236,-3.99084
+29017,Archidona,Andalucía,Málaga,37.10029,-4.38969
+29018,Ardales,Andalucía,Málaga,36.88947,-4.8528
+29019,Arenas,Andalucía,Málaga,36.80567,-4.04858
+29020,Arriate,Andalucía,Málaga,36.79654,-5.13432
+29021,Atajate,Andalucía,Málaga,36.64704,-5.24392
+29022,Benadalid,Andalucía,Málaga,36.61481,-5.27804
+29023,Benahavís,Andalucía,Málaga,36.55541,-5.04709
+29024,Benalauría,Andalucía,Málaga,36.58292,-5.24884
+29025,Benalmádena,Andalucía,Málaga,36.59703,-4.55347
+29026,Benamargosa,Andalucía,Málaga,36.84745,-4.19617
+29027,Benamocarra,Andalucía,Málaga,36.78575,-4.16363
+29028,Benaoján,Andalucía,Málaga,36.70442,-5.254
+29029,Benarrabá,Andalucía,Málaga,36.54425,-5.28504
+29030,El Borge,Andalucía,Málaga,36.80459,-4.25579
+29031,El Burgo,Andalucía,Málaga,36.80657,-4.94498
+29032,Campillos,Andalucía,Málaga,37.02313,-4.85276
+29033,Canillas de Aceituno,Andalucía,Málaga,36.86925,-4.09896
+29034,Canillas de Albaida,Andalucía,Málaga,36.85824,-3.97086
+29035,Cañete la Real,Andalucía,Málaga,36.95393,-5.04192
+29036,Carratraca,Andalucía,Málaga,36.84431,-4.82558
+29037,Cartajima,Andalucía,Málaga,36.65476,-5.16108
+29038,Cártama,Andalucía,Málaga,36.74852,-4.61881
+29039,Casabermeja,Andalucía,Málaga,36.87735,-4.43485
+29040,Casarabonela,Andalucía,Málaga,36.79316,-4.82513
+29041,Casares,Andalucía,Málaga,36.4226,-5.28669
+29042,Coín,Andalucía,Málaga,36.67053,-4.76399
+29043,Colmenar,Andalucía,Málaga,36.92048,-4.34382
+29044,Comares,Andalucía,Málaga,36.85812,-4.25281
+29046,Cortes de la Frontera,Andalucía,Málaga,36.58601,-5.39827
+29047,Cuevas Bajas,Andalucía,Málaga,37.23052,-4.465
+29048,Cuevas del Becerro,Andalucía,Málaga,36.87135,-5.04833
+29049,Cuevas de San Marcos,Andalucía,Málaga,37.25048,-4.42559
+29050,Cútar,Andalucía,Málaga,36.86139,-4.21942
+29051,Estepona,Andalucía,Málaga,36.46093,-5.12208
+29052,Faraján,Andalucía,Málaga,36.61425,-5.20368
+29054,Fuengirola,Andalucía,Málaga,36.55568,-4.61883
+29055,Fuente de Piedra,Andalucía,Málaga,37.12304,-4.7572
+29056,Gaucín,Andalucía,Málaga,36.49237,-5.34708
+29057,Genalguacil,Andalucía,Málaga,36.52171,-5.22655
+29058,Guaro,Andalucía,Málaga,36.67723,-4.84174
+29059,Humilladero,Andalucía,Málaga,37.13609,-4.69971
+29060,Igualeja,Andalucía,Málaga,36.61668,-5.09896
+29061,Istán,Andalucía,Málaga,36.59817,-4.95513
+29062,Iznate,Andalucía,Málaga,36.78288,-4.19352
+29063,Jimera de Líbar,Andalucía,Málaga,36.65639,-5.28088
+29064,Jubrique,Andalucía,Málaga,36.56099,-5.21107
+29065,Júzcar,Andalucía,Málaga,36.60019,-5.16833
+29066,Macharaviaya,Andalucía,Málaga,36.77208,-4.22506
+29067,Málaga,Andalucía,Málaga,36.76401,-4.44231
+29068,Manilva,Andalucía,Málaga,36.34912,-5.26644
+29069,Marbella,Andalucía,Málaga,36.50724,-4.79873
+29070,Mijas,Andalucía,Málaga,36.55523,-4.69506
+29071,Moclinejo,Andalucía,Málaga,36.76393,-4.25768
+29072,Mollina,Andalucía,Málaga,37.13715,-4.65551
+29073,Monda,Andalucía,Málaga,36.6226,-4.85624
+29074,Montejaque,Andalucía,Málaga,36.71974,-5.29325
+29076,Ojén,Andalucía,Málaga,36.5662,-4.84483
+29077,Parauta,Andalucía,Málaga,36.66622,-5.08313
+29079,Periana,Andalucía,Málaga,36.93367,-4.19978
+29080,Pizarra,Andalucía,Málaga,36.76231,-4.71082
+29081,Pujerra,Andalucía,Málaga,36.58256,-5.12188
+29082,Rincón de la Victoria,Andalucía,Málaga,36.73422,-4.274
+29083,Riogordo,Andalucía,Málaga,36.91769,-4.26696
+29084,Ronda,Andalucía,Málaga,36.79501,-5.20678
+29085,Salares,Andalucía,Málaga,36.86136,-4.01615
+29086,Sayalonga,Andalucía,Málaga,36.79782,-4.01083
+29087,Sedella,Andalucía,Málaga,36.86728,-4.04272
+29088,Sierra de Yeguas,Andalucía,Málaga,37.14537,-4.85447
+29089,Teba,Andalucía,Málaga,36.98503,-4.92179
+29090,Tolox,Andalucía,Málaga,36.67886,-4.94702
+29091,Torrox,Andalucía,Málaga,36.7705,-3.9532
+29092,Totalán,Andalucía,Málaga,36.75882,-4.29431
+29093,Valle de Abdalajís,Andalucía,Málaga,36.93593,-4.68184
+29094,Vélez-Málaga,Andalucía,Málaga,36.78437,-4.10513
+29095,Villanueva de Algaidas,Andalucía,Málaga,37.19221,-4.41034
+29096,Villanueva del Rosario,Andalucía,Málaga,37.00607,-4.36386
+29097,Villanueva del Trabuco,Andalucía,Málaga,37.03756,-4.32606
+29098,Villanueva de Tapia,Andalucía,Málaga,37.18205,-4.33912
+29099,Viñuela,Andalucía,Málaga,36.86545,-4.16411
+29100,Yunquera,Andalucía,Málaga,36.73731,-4.93328
+29901,Torremolinos,Andalucía,Málaga,36.62544,-4.5233
+29902,Villanueva de la Concepción,Andalucía,Málaga,36.93526,-4.52793
+29903,Montecorto,Andalucía,Málaga,36.82266,-5.29334
+29904,Serrato,Andalucía,Málaga,36.85832,-4.99165
+41001,Aguadulce,Andalucía,Sevilla,37.24831,-4.9782
+41002,Alanís,Andalucía,Sevilla,38.04553,-5.62097
+41006,Alcolea del Río,Andalucía,Sevilla,37.64499,-5.64544
+41008,Algámitas,Andalucía,Sevilla,37.0149,-5.15742
+41011,Arahal,Andalucía,Sevilla,37.17182,-5.59492
+41014,Badolatosa,Andalucía,Sevilla,37.30516,-4.68655
+41022,La Campana,Andalucía,Sevilla,37.56206,-5.41244
+41026,Casariche,Andalucía,Sevilla,37.29262,-4.76185
+41033,Constantina,Andalucía,Sevilla,37.84222,-5.59497
+41035,Coripe,Andalucía,Sevilla,36.98787,-5.40163
+41036,El Coronil,Andalucía,Sevilla,37.00268,-5.61436
+41037,Los Corrales,Andalucía,Sevilla,37.11394,-5.01108
+41039,Écija,Andalucía,Sevilla,37.54295,-5.06206
+41041,Estepa,Andalucía,Sevilla,37.28957,-4.91875
+41042,Fuentes de Andalucía,Andalucía,Sevilla,37.51258,-5.31218
+41046,Gilena,Andalucía,Sevilla,37.2272,-4.95915
+41050,Herrera,Andalucía,Sevilla,37.37874,-4.8639
+41052,Lantejuela,Andalucía,Sevilla,37.36332,-5.2246
+41054,Lora de Estepa,Andalucía,Sevilla,37.26548,-4.81891
+41055,Lora del Río,Andalucía,Sevilla,37.67001,-5.51461
+41056,La Luisiana,Andalucía,Sevilla,37.55363,-5.21269
+41060,Marchena,Andalucía,Sevilla,37.32424,-5.3651
+41061,Marinaleda,Andalucía,Sevilla,37.37619,-4.93627
+41062,Martín de la Jara,Andalucía,Sevilla,37.13412,-4.9458
+41063,Los Molares,Andalucía,Sevilla,37.15652,-5.69284
+41064,Montellano,Andalucía,Sevilla,36.99703,-5.53374
+41065,Morón de la Frontera,Andalucía,Sevilla,37.11979,-5.44293
+41066,Las Navas de la Concepción,Andalucía,Sevilla,37.93233,-5.45842
+41068,Osuna,Andalucía,Sevilla,37.23791,-5.12036
+41071,Paradas,Andalucía,Sevilla,37.29722,-5.50535
+41072,Pedrera,Andalucía,Sevilla,37.20414,-4.89177
+41074,Peñaflor,Andalucía,Sevilla,37.73021,-5.36539
+41076,Pruna,Andalucía,Sevilla,37.00079,-5.23343
+41077,La Puebla de Cazalla,Andalucía,Sevilla,37.1626,-5.28156
+41078,La Puebla de los Infantes,Andalucía,Sevilla,37.81036,-5.42765
+41082,La Roda de Andalucía,Andalucía,Sevilla,37.21141,-4.77762
+41084,El Rubio,Andalucía,Sevilla,37.34135,-5.01129
+41088,San Nicolás del Puerto,Andalucía,Sevilla,37.98202,-5.62499
+41090,El Saucejo,Andalucía,Sevilla,37.07654,-5.08931
+41092,Tocina,Andalucía,Sevilla,37.60843,-5.73482
+41099,Villanueva del Río y Minas,Andalucía,Sevilla,37.65092,-5.73086
+41100,Villanueva de San Juan,Andalucía,Sevilla,37.07668,-5.19722
+41102,El Viso del Alcor,Andalucía,Sevilla,37.38496,-5.70614
+41901,Cañada Rosal,Andalucía,Sevilla,37.60633,-5.23241
+04001,Abla,Andalucía,Almería,37.1652,-2.76855
+04002,Abrucena,Andalucía,Almería,37.15923,-2.79326
+04003,Adra,Andalucía,Almería,36.78176,-3.06142
+04005,Alboloduy,Andalucía,Almería,37.06646,-2.62329
+04007,Alcolea,Andalucía,Almería,36.93979,-2.98451
+04008,Alcóntar,Andalucía,Almería,37.31951,-2.62321
+04010,Alhabia,Andalucía,Almería,36.99289,-2.56682
+04011,Alhama de Almería,Andalucía,Almería,36.9436,-2.5755
+04012,Alicún,Andalucía,Almería,36.95092,-2.60042
+04013,Almería,Andalucía,Almería,36.86815,-2.31235
+04014,Almócita,Andalucía,Almería,36.96036,-2.80028
+04015,Alsodux,Andalucía,Almería,37.01941,-2.56414
+04018,Armuña de Almanzora,Andalucía,Almería,37.35359,-2.41528
+04019,Bacares,Andalucía,Almería,37.25484,-2.48364
+04020,Bayárcal,Andalucía,Almería,37.05461,-2.99506
+04021,Bayarque,Andalucía,Almería,37.31375,-2.44958
+04023,Beires,Andalucía,Almería,37.04413,-2.80548
+04024,Benahadux,Andalucía,Almería,36.91778,-2.47207
+04028,Bentarique,Andalucía,Almería,36.9949,-2.62227
+04029,Berja,Andalucía,Almería,36.85311,-2.96198
+04030,Canjáyar,Andalucía,Almería,36.98962,-2.72731
+04033,Castro de Filabres,Andalucía,Almería,37.17342,-2.44441
+04038,Dalías,Andalucía,Almería,36.85432,-2.818
+04041,Enix,Andalucía,Almería,36.86949,-2.59708
+04043,Felix,Andalucía,Almería,36.87091,-2.70023
+04045,Fiñana,Andalucía,Almería,37.18319,-2.8451
+04046,Fondón,Andalucía,Almería,36.99287,-2.85033
+04047,Gádor,Andalucía,Almería,36.96175,-2.47879
+04050,Gérgal,Andalucía,Almería,37.14609,-2.55739
+04051,Huécija,Andalucía,Almería,36.95252,-2.62218
+04052,Huércal de Almería,Andalucía,Almería,36.88219,-2.46608
+04054,Íllar,Andalucía,Almería,36.9854,-2.63936
+04055,Instinción,Andalucía,Almería,36.97548,-2.6679
+04057,Laujar de Andarax,Andalucía,Almería,37.00084,-2.90245
+04061,Lúcar,Andalucía,Almería,37.43469,-2.44058
+04065,Nacimiento,Andalucía,Almería,37.14503,-2.65754
+04067,Ohanes,Andalucía,Almería,37.05917,-2.7596
+04068,Olula de Castro,Andalucía,Almería,37.17273,-2.48821
+04070,Oria,Andalucía,Almería,37.48427,-2.29264
+04071,Padules,Andalucía,Almería,36.96139,-2.76697
+04073,Paterna del Río,Andalucía,Almería,37.04666,-2.94869
+04074,Pechina,Andalucía,Almería,36.94183,-2.39825
+04076,Purchena,Andalucía,Almería,37.34281,-2.35158
+04077,Rágol,Andalucía,Almería,37.01316,-2.69049
+04078,Rioja,Andalucía,Almería,36.96905,-2.43453
+04079,Roquetas de Mar,Andalucía,Almería,36.77908,-2.62302
+04080,Santa Cruz de Marchena,Andalucía,Almería,37.03534,-2.5818
+04081,Santa Fe de Mondújar,Andalucía,Almería,36.97946,-2.51855
+04083,Serón,Andalucía,Almería,37.35225,-2.53998
+04084,Sierro,Andalucía,Almería,37.29811,-2.39643
+04085,Somontín,Andalucía,Almería,37.42426,-2.39154
+04087,Suflí,Andalucía,Almería,37.30991,-2.37415
+04088,Tabernas,Andalucía,Almería,37.06994,-2.35335
+04091,Terque,Andalucía,Almería,36.92018,-2.65139
+04092,Tíjola,Andalucía,Almería,37.40141,-2.49818
+04097,Velefique,Andalucía,Almería,37.19946,-2.39829
+04101,Viator,Andalucía,Almería,36.89736,-2.39873
+04102,Vícar,Andalucía,Almería,36.79716,-2.64494
+04901,Las Tres Villas,Andalucía,Almería,37.15799,-2.71582
+04902,El Ejido,Andalucía,Almería,36.75464,-2.80082
+04903,La Mojonera,Andalucía,Almería,36.76946,-2.69371
+04904,Balanegra,Andalucía,Almería,36.77318,-2.93281
+18001,Agrón,Andalucía,Granada,37.01466,-3.81531
+18002,Alamedilla,Andalucía,Granada,37.58163,-3.23299
+18003,Albolote,Andalucía,Granada,37.30561,-3.66073
+18004,Albondón,Andalucía,Granada,36.84496,-3.20733
+18005,Albuñán,Andalucía,Granada,37.23382,-3.13592
+18006,Albuñol,Andalucía,Granada,36.78945,-3.18827
+18007,Albuñuelas,Andalucía,Granada,36.93051,-3.68037
+18010,Aldeire,Andalucía,Granada,37.15159,-3.07955
+18011,Alfacar,Andalucía,Granada,37.24805,-3.56019
+18014,Alhendín,Andalucía,Granada,37.06112,-3.70891
+18015,Alicún de Ortega,Andalucía,Granada,37.60615,-3.14681
+18016,Almegíjar,Andalucía,Granada,36.90767,-3.29172
+18017,Almuñécar,Andalucía,Granada,36.77037,-3.72363
+18018,Alquife,Andalucía,Granada,37.19017,-3.11035
+18020,Arenas del Rey,Andalucía,Granada,36.94878,-3.88967
+18021,Armilla,Andalucía,Granada,37.14758,-3.61847
+18022,Atarfe,Andalucía,Granada,37.25404,-3.71387
+18023,Baza,Andalucía,Granada,37.42895,-2.84798
+18024,Beas de Granada,Andalucía,Granada,37.23974,-3.46029
+18025,Beas de Guadix,Andalucía,Granada,37.27365,-3.21675
+18027,Benalúa,Andalucía,Granada,37.35646,-3.16687
+18028,Benalúa de las Villas,Andalucía,Granada,37.44452,-3.65027
+18029,Benamaurel,Andalucía,Granada,37.63733,-2.68255
+18030,Bérchules,Andalucía,Granada,37.02078,-3.2
+18032,Bubión,Andalucía,Granada,36.95825,-3.34124
+18033,Busquístar,Andalucía,Granada,36.95782,-3.27452
+18034,Cacín,Andalucía,Granada,37.08777,-3.91444
+18035,Cádiar,Andalucía,Granada,36.92548,-3.17875
+18036,Cájar,Andalucía,Granada,37.1273,-3.56925
+18037,Calicasas,Andalucía,Granada,37.28387,-3.62739
+18038,Campotéjar,Andalucía,Granada,37.50746,-3.5927
+18039,Caniles,Andalucía,Granada,37.40937,-2.68378
+18040,Cáñar,Andalucía,Granada,36.96658,-3.42365
+18042,Capileira,Andalucía,Granada,37.00612,-3.33811
+18043,Carataunas,Andalucía,Granada,36.92221,-3.39634
+18044,Cástaras,Andalucía,Granada,36.91868,-3.24193
+18045,Castilléjar,Andalucía,Granada,37.74032,-2.68288
+18046,Castril,Andalucía,Granada,37.84222,-2.76737
+18047,Cenes de la Vega,Andalucía,Granada,37.15614,-3.54195
+18048,Cijuela,Andalucía,Granada,37.17456,-3.81585
+18049,Cogollos de Guadix,Andalucía,Granada,37.23229,-3.18193
+18050,Cogollos de la Vega,Andalucía,Granada,37.29645,-3.56352
+18051,Colomera,Andalucía,Granada,37.37821,-3.71142
+18053,Cortes de Baza,Andalucía,Granada,37.68887,-2.81989
+18054,Cortes y Graena,Andalucía,Granada,37.28646,-3.2455
+18056,Cúllar,Andalucía,Granada,37.55691,-2.51336
+18057,Cúllar Vega,Andalucía,Granada,37.15743,-3.6723
+18059,Chauchina,Andalucía,Granada,37.17414,-3.79039
+18061,Chimeneas,Andalucía,Granada,37.11409,-3.83932
+18062,Churriana de la Vega,Andalucía,Granada,37.14498,-3.64229
+18063,Darro,Andalucía,Granada,37.36146,-3.28329
+18064,Dehesas de Guadix,Andalucía,Granada,37.58952,-3.07815
+18065,Dehesas Viejas,Andalucía,Granada,37.48651,-3.55814
+18066,Deifontes,Andalucía,Granada,37.35058,-3.59615
+18067,Diezma,Andalucía,Granada,37.32223,-3.33872
+18068,Dílar,Andalucía,Granada,37.06472,-3.51444
+18069,Dólar,Andalucía,Granada,37.27926,-2.86858
+18070,Dúdar,Andalucía,Granada,37.18735,-3.4918
+18071,Dúrcal,Andalucía,Granada,37.01054,-3.54724
+18072,Escúzar,Andalucía,Granada,37.05299,-3.77087
+18074,Ferreira,Andalucía,Granada,37.16809,-3.03251
+18076,Fonelas,Andalucía,Granada,37.42655,-3.17435
+18077,Fornes,Andalucía,Granada,36.9469,-3.8543
+18078,Freila,Andalucía,Granada,37.51154,-2.91108
+18079,Fuente Vaqueros,Andalucía,Granada,37.22183,-3.77614
+18082,Galera,Andalucía,Granada,37.71657,-2.56605
+18083,Gobernador,Andalucía,Granada,37.47951,-3.30206
+18084,Gójar,Andalucía,Granada,37.0964,-3.59465
+18085,Gor,Andalucía,Granada,37.37583,-2.9676
+18086,Gorafe,Andalucía,Granada,37.51653,-3.04739
+18087,Granada,Andalucía,Granada,37.18104,-3.5899
+18088,Guadahortuna,Andalucía,Granada,37.52187,-3.38704
+18089,Guadix,Andalucía,Granada,37.37261,-3.0689
+18093,Gualchos,Andalucía,Granada,36.73816,-3.38981
+18094,Güéjar Sierra,Andalucía,Granada,37.14172,-3.37043
+18095,Güevéjar,Andalucía,Granada,37.25658,-3.60386
+18096,Huélago,Andalucía,Granada,37.41804,-3.26792
+18097,Huéneja,Andalucía,Granada,37.1788,-2.92945
+18098,Huéscar,Andalucía,Granada,37.92295,-2.60302
+18099,Huétor de Santillán,Andalucía,Granada,37.28365,-3.44419
+18101,Huétor Vega,Andalucía,Granada,37.14848,-3.56549
+18102,Íllora,Andalucía,Granada,37.29245,-3.88342
+18103,Ítrabo,Andalucía,Granada,36.78812,-3.63567
+18105,Iznalloz,Andalucía,Granada,37.42116,-3.56455
+18106,Játar,Andalucía,Granada,36.93671,-3.9158
+18107,Jayena,Andalucía,Granada,36.9314,-3.79332
+18108,Jérez del Marquesado,Andalucía,Granada,37.16289,-3.19938
+18109,Jete,Andalucía,Granada,36.79851,-3.66645
+18111,Jun,Andalucía,Granada,37.21716,-3.58734
+18112,Juviles,Andalucía,Granada,36.96711,-3.23186
+18114,La Calahorra,Andalucía,Granada,37.21666,-3.04401
+18115,Láchar,Andalucía,Granada,37.18571,-3.84386
+18116,Lanjarón,Andalucía,Granada,36.95812,-3.45994
+18117,Lanteira,Andalucía,Granada,37.16779,-3.13903
+18119,Lecrín,Andalucía,Granada,36.94285,-3.53031
+18120,Lentegí,Andalucía,Granada,36.84161,-3.68905
+18121,Lobras,Andalucía,Granada,36.91457,-3.21593
+18123,Lugros,Andalucía,Granada,37.19948,-3.24222
+18124,Lújar,Andalucía,Granada,36.77615,-3.39593
+18126,La Malahá,Andalucía,Granada,37.09972,-3.72822
+18127,Maracena,Andalucía,Granada,37.21091,-3.64243
+18128,Marchal,Andalucía,Granada,37.29742,-3.19117
+18132,Moclín,Andalucía,Granada,37.365,-3.80334
+18133,Molvízar,Andalucía,Granada,36.79103,-3.59489
+18134,Monachil,Andalucía,Granada,37.10221,-3.47022
+18136,Montejícar,Andalucía,Granada,37.56289,-3.50219
+18137,Montillana,Andalucía,Granada,37.4733,-3.73198
+18140,Motril,Andalucía,Granada,36.74562,-3.49069
+18141,Murtas,Andalucía,Granada,36.8608,-3.15102
+18143,Nigüelas,Andalucía,Granada,36.98792,-3.50245
+18144,Nívar,Andalucía,Granada,37.26151,-3.56724
+18145,Ogíjares,Andalucía,Granada,37.12424,-3.61666
+18146,Orce,Andalucía,Granada,37.72533,-2.41545
+18147,Órgiva,Andalucía,Granada,36.86927,-3.40716
+18148,Otívar,Andalucía,Granada,36.83975,-3.76586
+18149,Villa de Otura,Andalucía,Granada,37.07127,-3.65484
+18150,Padul,Andalucía,Granada,37.0117,-3.67058
+18151,Pampaneira,Andalucía,Granada,36.96444,-3.38684
+18152,Pedro Martínez,Andalucía,Granada,37.51316,-3.23603
+18153,Peligros,Andalucía,Granada,37.24227,-3.62928
+18154,La Peza,Andalucía,Granada,37.28268,-3.31362
+18157,Pinos Genil,Andalucía,Granada,37.15952,-3.50567
+18158,Pinos Puente,Andalucía,Granada,37.23264,-3.75829
+18159,Píñar,Andalucía,Granada,37.43095,-3.41867
+18161,Polícar,Andalucía,Granada,37.24709,-3.24238
+18162,Polopos,Andalucía,Granada,36.78033,-3.3003
+18163,Pórtugos,Andalucía,Granada,36.97303,-3.30634
+18164,Puebla de Don Fadrique,Andalucía,Granada,37.92292,-2.36545
+18165,Pulianas,Andalucía,Granada,37.22718,-3.60709
+18167,Purullena,Andalucía,Granada,37.34678,-3.19357
+18168,Quéntar,Andalucía,Granada,37.22894,-3.40064
+18170,Rubite,Andalucía,Granada,36.78038,-3.34349
+18173,Salobreña,Andalucía,Granada,36.76545,-3.59353
+18175,Santa Fe,Andalucía,Granada,37.18022,-3.7387
+18176,Soportújar,Andalucía,Granada,36.96749,-3.40139
+18177,Sorvilán,Andalucía,Granada,36.78969,-3.26078
+18178,Torre-Cardela,Andalucía,Granada,37.49956,-3.36185
+18179,Torvizcón,Andalucía,Granada,36.85283,-3.27537
+18180,Trevélez,Andalucía,Granada,37.04561,-3.26772
+18181,Turón,Andalucía,Granada,36.84114,-3.07883
+18182,Ugíjar,Andalucía,Granada,36.9495,-3.0644
+18183,Válor,Andalucía,Granada,37.03189,-3.09609
+18184,Vélez de Benaudalla,Andalucía,Granada,36.82677,-3.48914
+18185,Ventas de Huelma,Andalucía,Granada,37.07056,-3.8436
+18187,Villanueva de las Torres,Andalucía,Granada,37.52239,-3.12344
+18189,Víznar,Andalucía,Granada,37.23576,-3.54014
+18193,La Zubia,Andalucía,Granada,37.10972,-3.57416
+18194,Zújar,Andalucía,Granada,37.59182,-2.82007
+18901,La Taha,Andalucía,Granada,36.93279,-3.33053
+18902,El Valle,Andalucía,Granada,36.9251,-3.58564
+18903,Nevada,Andalucía,Granada,37.04115,-3.04003
+18904,Alpujarra de la Sierra,Andalucía,Granada,37.02466,-3.14872
+18905,Las Gabias,Andalucía,Granada,37.13218,-3.69459
+18906,Los Guájares,Andalucía,Granada,36.84926,-3.59887
+18907,Valle del Zalabí,Andalucía,Granada,37.27525,-3.06686
+18908,Villamena,Andalucía,Granada,36.97499,-3.61057
+18909,Morelábor,Andalucía,Granada,37.42685,-3.31502
+18910,El Pinar,Andalucía,Granada,36.9018,-3.55021
+18911,Vegas del Genil,Andalucía,Granada,37.16903,-3.68863
+18912,Cuevas del Campo,Andalucía,Granada,37.618,-2.91844
+18914,Valderrubio,Andalucía,Granada,37.23329,-3.82249
+18915,Domingo Pérez de Granada,Andalucía,Granada,37.49782,-3.50372
+18916,Torrenueva Costa,Andalucía,Granada,36.70848,-3.48066
+23001,Albanchez de Mágina,Andalucía,Jaén,37.77342,-3.45789
+23004,Aldeaquemada,Andalucía,Jaén,38.4132,-3.35418
+23008,Arquillos,Andalucía,Jaén,38.21422,-3.42178
+23009,Baeza,Andalucía,Jaén,37.95324,-3.46649
+23010,Bailén,Andalucía,Jaén,38.0952,-3.76765
+23011,Baños de la Encina,Andalucía,Jaén,38.28465,-3.75361
+23012,Beas de Segura,Andalucía,Jaén,38.25716,-2.87076
+23014,Begíjar,Andalucía,Jaén,37.97384,-3.5769
+23015,Bélmez de la Moraleda,Andalucía,Jaén,37.73163,-3.37596
+23016,Benatae,Andalucía,Jaén,38.36397,-2.67303
+23017,Cabra del Santo Cristo,Andalucía,Jaén,37.71101,-3.24249
+23018,Cambil,Andalucía,Jaén,37.67314,-3.55444
+23019,Campillo de Arenas,Andalucía,Jaén,37.59688,-3.62764
+23020,Canena,Andalucía,Jaén,38.06077,-3.50183
+23021,Carboneros,Andalucía,Jaén,38.21374,-3.6238
+23024,La Carolina,Andalucía,Jaén,38.30292,-3.59685
+23025,Castellar,Andalucía,Jaén,38.31216,-3.14932
+23027,Cazalilla,Andalucía,Jaén,37.95984,-3.88354
+23028,Cazorla,Andalucía,Jaén,37.90178,-2.94628
+23029,Chiclana de Segura,Andalucía,Jaén,38.35893,-2.971
+23030,Chilluévar,Andalucía,Jaén,37.9867,-3.044
+23032,Espeluy,Andalucía,Jaén,38.02325,-3.86104
+23033,Frailes,Andalucía,Jaén,37.49305,-3.82213
+23034,Fuensanta de Martos,Andalucía,Jaén,37.63194,-3.91768
+23035,Fuerte del Rey,Andalucía,Jaén,37.90701,-3.89877
+23037,Génave,Andalucía,Jaén,38.44181,-2.75482
+23038,La Guardia de Jaén,Andalucía,Jaén,37.74754,-3.69125
+23039,Guarromán,Andalucía,Jaén,38.1841,-3.65824
+23042,Hinojares,Andalucía,Jaén,37.73247,-2.99911
+23043,Hornos,Andalucía,Jaén,38.20536,-2.72165
+23044,Huelma,Andalucía,Jaén,37.65897,-3.40213
+23045,Huesa,Andalucía,Jaén,37.69293,-3.06372
+23046,Ibros,Andalucía,Jaén,38.05155,-3.55206
+23047,La Iruela,Andalucía,Jaén,37.965,-2.91986
+23048,Iznatoraf,Andalucía,Jaén,38.12338,-2.91331
+23049,Jabalquinto,Andalucía,Jaén,38.01653,-3.75474
+23050,Jaén,Andalucía,Jaén,37.78049,-3.77293
+23051,Jamilena,Andalucía,Jaén,37.74055,-3.91699
+23052,Jimena,Andalucía,Jaén,37.83707,-3.48563
+23053,Jódar,Andalucía,Jaén,37.8347,-3.33311
+23054,Larva,Andalucía,Jaén,37.76811,-3.1872
+23055,Linares,Andalucía,Jaén,38.08847,-3.6404
+23057,Lupión,Andalucía,Jaén,38.0156,-3.56985
+23058,Mancha Real,Andalucía,Jaén,37.85667,-3.60304
+23061,Mengíbar,Andalucía,Jaén,37.96544,-3.79722
+23062,Montizón,Andalucía,Jaén,38.39149,-3.10056
+23063,Navas de San Juan,Andalucía,Jaén,38.23944,-3.338
+23064,Noalejo,Andalucía,Jaén,37.55003,-3.60025
+23065,Orcera,Andalucía,Jaén,38.4344,-2.86703
+23066,Peal de Becerro,Andalucía,Jaén,37.89507,-3.15757
+23067,Pegalajar,Andalucía,Jaén,37.71626,-3.64813
+23070,Pozo Alcón,Andalucía,Jaén,37.71494,-2.93895
+23071,Puente de Génave,Andalucía,Jaén,38.33068,-2.8086
+23072,La Puerta de Segura,Andalucía,Jaén,38.37353,-2.79247
+23073,Quesada,Andalucía,Jaén,37.74543,-3.14584
+23074,Rus,Andalucía,Jaén,38.07993,-3.46921
+23075,Sabiote,Andalucía,Jaén,38.09383,-3.24539
+23076,Santa Elena,Andalucía,Jaén,38.37162,-3.53621
+23079,Santisteban del Puerto,Andalucía,Jaén,38.30612,-3.25606
+23080,Santo Tomé,Andalucía,Jaén,38.01258,-3.0942
+23081,Segura de la Sierra,Andalucía,Jaén,38.23695,-2.61182
+23082,Siles,Andalucía,Jaén,38.39617,-2.56851
+23084,Sorihuela del Guadalimar,Andalucía,Jaén,38.18737,-2.84371
+23085,Torreblascopedro,Andalucía,Jaén,37.98418,-3.67988
+23088,Torreperogil,Andalucía,Jaén,38.02338,-3.25099
+23090,Torres,Andalucía,Jaén,37.78768,-3.53969
+23091,Torres de Albánchez,Andalucía,Jaén,38.41758,-2.68188
+23092,Úbeda,Andalucía,Jaén,37.99358,-3.35346
+23093,Valdepeñas de Jaén,Andalucía,Jaén,37.57044,-3.79393
+23094,Vilches,Andalucía,Jaén,38.22893,-3.49442
+23095,Villacarrillo,Andalucía,Jaén,38.0918,-2.94042
+23096,Villanueva de la Reina,Andalucía,Jaén,38.1603,-3.88454
+23097,Villanueva del Arzobispo,Andalucía,Jaén,38.16419,-2.9588
+23099,Los Villares,Andalucía,Jaén,37.68255,-3.83594
+23101,Villarrodrigo,Andalucía,Jaén,38.47873,-2.6584
+23901,Cárcheles,Andalucía,Jaén,37.64484,-3.63843
+23902,Bedmar y Garcíez,Andalucía,Jaén,37.83311,-3.42337
+23903,Villatorres,Andalucía,Jaén,37.93367,-3.70447
+23904,Santiago-Pontones,Andalucía,Jaén,38.09885,-2.65693
+23905,Arroyo del Ojanco,Andalucía,Jaén,38.31402,-2.87645
+29045,Cómpeta,Andalucía,Málaga,36.82901,-3.95298
+29053,Frigiliana,Andalucía,Málaga,36.8012,-3.89693
+29075,Nerja,Andalucía,Málaga,36.78988,-3.82363
+04004,Albanchez,Andalucía,Almería,37.28603,-2.1602
+04006,Albox,Andalucía,Almería,37.45089,-2.1446
+04009,Alcudia de Monteagud,Andalucía,Almería,37.23776,-2.26161
+04016,Antas,Andalucía,Almería,37.24545,-1.94448
+04017,Arboleas,Andalucía,Almería,37.36169,-2.08436
+04022,Bédar,Andalucía,Almería,37.17204,-1.9925
+04026,Benitagla,Andalucía,Almería,37.23734,-2.23139
+04027,Benizalón,Andalucía,Almería,37.1973,-2.23078
+04031,Cantoria,Andalucía,Almería,37.3441,-2.17605
+04032,Carboneras,Andalucía,Almería,36.99353,-1.94714
+04034,Cóbdar,Andalucía,Almería,37.24752,-2.18078
+04035,Cuevas del Almanzora,Andalucía,Almería,37.32551,-1.81244
+04036,Chercos,Andalucía,Almería,37.26268,-2.27173
+04037,Chirivel,Andalucía,Almería,37.60483,-2.27786
+04044,Fines,Andalucía,Almería,37.36693,-2.26749
+04048,Los Gallardos,Andalucía,Almería,37.16592,-1.93008
+04049,Garrucha,Andalucía,Almería,37.18745,-1.82845
+04053,Huércal-Overa,Andalucía,Almería,37.41718,-1.91488
+04056,Laroya,Andalucía,Almería,37.28928,-2.34455
+04058,Líjar,Andalucía,Almería,37.29158,-2.23135
+04059,Lubrín,Andalucía,Almería,37.22697,-2.06367
+04060,Lucainena de las Torres,Andalucía,Almería,37.05437,-2.17663
+04062,Macael,Andalucía,Almería,37.30345,-2.28922
+04063,María,Andalucía,Almería,37.77068,-2.2465
+04064,Mojácar,Andalucía,Almería,37.11528,-1.85859
+04066,Níjar,Andalucía,Almería,36.86852,-2.1056
+04069,Olula del Río,Andalucía,Almería,37.38107,-2.30172
+04072,Partaloa,Andalucía,Almería,37.41101,-2.23805
+04075,Pulpí,Andalucía,Almería,37.39226,-1.71339
+04082,Senés,Andalucía,Almería,37.1992,-2.32818
+04086,Sorbas,Andalucía,Almería,37.09839,-2.09938
+04089,Taberno,Andalucía,Almería,37.48095,-2.061
+04090,Tahal,Andalucía,Almería,37.1918,-2.27462
+04093,Turre,Andalucía,Almería,37.11659,-1.94267
+04094,Turrillas,Andalucía,Almería,37.02633,-2.2616
+04095,Uleila del Campo,Andalucía,Almería,37.18056,-2.18317
+04096,Urrácal,Andalucía,Almería,37.39267,-2.34999
+04098,Vélez-Blanco,Andalucía,Almería,37.77826,-2.11184
+04099,Vélez-Rubio,Andalucía,Almería,37.57691,-2.05741
+04100,Vera,Andalucía,Almería,37.22521,-1.84427
+04103,Zurgena,Andalucía,Almería,37.36133,-2.03121
+30001,Abanilla,Región de Murcia,Murcia,38.24414,-1.05106
+30002,Abarán,Región de Murcia,Murcia,38.24497,-1.33271
+30003,Águilas,Región de Murcia,Murcia,37.46984,-1.58121
+30004,Albudeite,Región de Murcia,Murcia,38.03038,-1.38036
+30005,Alcantarilla,Región de Murcia,Murcia,37.97112,-1.22988
+30006,Aledo,Región de Murcia,Murcia,37.78895,-1.61131
+30007,Alguazas,Región de Murcia,Murcia,38.05788,-1.27488
+30008,Alhama de Murcia,Región de Murcia,Murcia,37.81196,-1.38561
+30009,Archena,Región de Murcia,Murcia,38.11314,-1.29228
+30010,Beniel,Región de Murcia,Murcia,38.02757,-0.992
+30011,Blanca,Región de Murcia,Murcia,38.2147,-1.28637
+30012,Bullas,Región de Murcia,Murcia,38.02997,-1.67855
+30013,Calasparra,Región de Murcia,Murcia,38.23854,-1.65903
+30014,Campos del Río,Región de Murcia,Murcia,38.05087,-1.33796
+30015,Caravaca de la Cruz,Región de Murcia,Murcia,38.00812,-2.04331
+30016,Cartagena,Región de Murcia,Murcia,37.63242,-1.05745
+30017,Cehegín,Región de Murcia,Murcia,38.0657,-1.77316
+30018,Ceutí,Región de Murcia,Murcia,38.08685,-1.28182
+30019,Cieza,Región de Murcia,Murcia,38.26829,-1.4609
+30020,Fortuna,Región de Murcia,Murcia,38.21459,-1.15299
+30021,Fuente Álamo de Murcia,Región de Murcia,Murcia,37.73918,-1.18736
+30022,Jumilla,Región de Murcia,Murcia,38.5048,-1.33732
+30023,Librilla,Región de Murcia,Murcia,37.90099,-1.34459
+30024,Lorca,Región de Murcia,Murcia,37.69564,-1.7726
+30025,Lorquí,Región de Murcia,Murcia,38.09977,-1.24895
+30026,Mazarrón,Región de Murcia,Murcia,37.61945,-1.3348
+30027,Molina de Segura,Región de Murcia,Murcia,38.13678,-1.20341
+30028,Moratalla,Región de Murcia,Murcia,38.189,-1.9828
+30029,Mula,Región de Murcia,Murcia,38.02704,-1.52056
+30030,Murcia,Región de Murcia,Murcia,37.93452,-1.11222
+30031,Ojós,Región de Murcia,Murcia,38.11189,-1.37451
+30032,Pliego,Región de Murcia,Murcia,37.98094,-1.49983
+30033,Puerto Lumbreras,Región de Murcia,Murcia,37.53356,-1.83592
+30034,Ricote,Región de Murcia,Murcia,38.14879,-1.42976
+30035,San Javier,Región de Murcia,Murcia,37.81983,-0.85072
+30036,San Pedro del Pinatar,Región de Murcia,Murcia,37.83199,-0.78529
+30037,Torre-Pacheco,Región de Murcia,Murcia,37.78416,-0.96675
+30038,Las Torres de Cotillas,Región de Murcia,Murcia,38.02243,-1.26598
+30039,Totana,Región de Murcia,Murcia,37.78126,-1.5087
+30040,Ulea,Región de Murcia,Murcia,38.1622,-1.29587
+30041,La Unión,Región de Murcia,Murcia,37.61179,-0.87462
+30042,Villanueva del Río Segura,Región de Murcia,Murcia,38.10117,-1.32911
+30043,Yecla,Región de Murcia,Murcia,38.59989,-1.1411
+30901,Santomera,Región de Murcia,Murcia,38.08009,-1.05804
+30902,Los Alcázares,Región de Murcia,Murcia,37.74654,-0.86569

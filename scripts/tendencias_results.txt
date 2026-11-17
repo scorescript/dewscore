@@ -1,0 +1,5 @@
+AWVC_g_m3: 725 estaciones; p<0.05: 407 (396 positivas, 11 negativas); mediana pendiente por decada 0.4050; rango -1.1083 a 2.7650
+CFI: 725 estaciones; p<0.05: 152 (96 positivas, 56 negativas); mediana pendiente por decada 0.0135; rango -0.2630 a 0.3480
+DF: 725 estaciones; p<0.05: 165 (95 positivas, 70 negativas); mediana pendiente por decada 0.0125; rango -0.3170 a 0.3384
+HHF: 725 estaciones; p<0.05: 292 (62 positivas, 224 negativas); mediana pendiente por decada -0.0273; rango -0.5921 a 0.8700
+Td_media_C: 725 estaciones; p<0.05: 424 (414 positivas, 10 negativas); mediana pendiente por decada 0.7862; rango -1.6385 a 4.2000

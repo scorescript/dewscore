@@ -1,0 +1,443 @@
+[
+  {
+    "latitud": "285811N",
+    "provincia": "LAS PALMAS",
+    "altitud": "376",
+    "indicativo": "C018J",
+    "nombre": "TÍAS",
+    "indsinop": "",
+    "longitud": "134125W"
+  },
+  {
+    "latitud": "285132N",
+    "provincia": "LAS PALMAS",
+    "altitud": "6",
+    "indicativo": "C019V",
+    "nombre": "YAIZA PLAYA BLANCA",
+    "indsinop": "",
+    "longitud": "135006W"
+  },
+  {
+    "latitud": "285707N",
+    "provincia": "LAS PALMAS",
+    "altitud": "14",
+    "indicativo": "C029O",
+    "nombre": "LANZAROTE AEROPUERTO",
+    "indsinop": "60040",
+    "longitud": "133601W"
+  },
+  {
+    "latitud": "290837N",
+    "provincia": "LAS PALMAS",
+    "altitud": "277",
+    "indicativo": "C038N",
+    "nombre": "HARÍA",
+    "indsinop": "",
+    "longitud": "132921W"
+  },
+  {
+    "latitud": "290233N",
+    "provincia": "LAS PALMAS",
+    "altitud": "275",
+    "indicativo": "C048W",
+    "nombre": "TINAJO",
+    "indsinop": "",
+    "longitud": "134051W"
+  },
+  {
+    "latitud": "284521N",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "altitud": "2223",
+    "indicativo": "C101A",
+    "nombre": "ROQUE DE LOS MUCHACHOS",
+    "indsinop": "",
+    "longitud": "175343W"
+  },
+  {
+    "latitud": "283545N",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "altitud": "62",
+    "indicativo": "C129Z",
+    "nombre": "TAZACORTE",
+    "indsinop": "60004",
+    "longitud": "175455W"
+  },
+  {
+    "latitud": "283759N",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "altitud": "33",
+    "indicativo": "C139E",
+    "nombre": "LA PALMA AEROPUERTO",
+    "indsinop": "60005",
+    "longitud": "174518W"
+  },
+  {
+    "latitud": "280257N",
+    "provincia": "LAS PALMAS",
+    "altitud": "15",
+    "indicativo": "C229J",
+    "nombre": "PÁJARA",
+    "indsinop": "",
+    "longitud": "142129W"
+  },
+  {
+    "latitud": "281231N",
+    "provincia": "LAS PALMAS",
+    "altitud": "1",
+    "indicativo": "C239N",
+    "nombre": "TUINEJE,PUERTO GRAN TARAJAL",
+    "indsinop": "",
+    "longitud": "140123W"
+  },
+  {
+    "latitud": "282501N",
+    "provincia": "LAS PALMAS",
+    "altitud": "252",
+    "indicativo": "C248E",
+    "nombre": "ANTIGUA",
+    "indsinop": "",
+    "longitud": "140109W"
+  },
+  {
+    "latitud": "282641N",
+    "provincia": "LAS PALMAS",
+    "altitud": "25",
+    "indicativo": "C249I",
+    "nombre": "FUERTEVENTURA AEROPUERTO",
+    "indsinop": "60035",
+    "longitud": "135147W"
+  },
+  {
+    "latitud": "283645N",
+    "provincia": "LAS PALMAS",
+    "altitud": "217",
+    "indicativo": "C258K",
+    "nombre": "LA OLIVA",
+    "indsinop": "",
+    "longitud": "135554W"
+  },
+  {
+    "latitud": "281225N",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "altitud": "403",
+    "indicativo": "C419L",
+    "nombre": "LOMO DEL BALO",
+    "indsinop": "60024",
+    "longitud": "164731W"
+  },
+  {
+    "latitud": "280249N",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "altitud": "64",
+    "indicativo": "C429I",
+    "nombre": "TENERIFE SUR AEROPUERTO",
+    "indsinop": "60025",
+    "longitud": "163340W"
+  },
+  {
+    "latitud": "281830N",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "altitud": "2369",
+    "indicativo": "C430E",
+    "nombre": "IZAÑA",
+    "indsinop": "60010",
+    "longitud": "162959W"
+  },
+  {
+    "latitud": "281906N",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "altitud": "115",
+    "indicativo": "C439J",
+    "nombre": "GÜÍMAR",
+    "indsinop": "60018",
+    "longitud": "162256W"
+  },
+  {
+    "latitud": "282839N",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "altitud": "632",
+    "indicativo": "C447A",
+    "nombre": "TENERIFE NORTE AEROPUERTO",
+    "indsinop": "60015",
+    "longitud": "161946W"
+  },
+  {
+    "latitud": "282748N",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "altitud": "36",
+    "indicativo": "C449C",
+    "nombre": "STA.CRUZ DE TENERIFE",
+    "indsinop": "60020",
+    "longitud": "161519W"
+  },
+  {
+    "latitud": "275836N",
+    "provincia": "LAS PALMAS",
+    "altitud": "1702",
+    "indicativo": "C611E",
+    "nombre": "VEGA DE SAN MATEO",
+    "indsinop": "",
+    "longitud": "153502W"
+  },
+  {
+    "latitud": "280025N",
+    "provincia": "LAS PALMAS",
+    "altitud": "1514",
+    "indicativo": "C612F",
+    "nombre": "TEJEDA, CRUZ DE TEJEDA",
+    "indsinop": "",
+    "longitud": "153556W"
+  },
+  {
+    "latitud": "275942N",
+    "provincia": "LAS PALMAS",
+    "altitud": "1060",
+    "indicativo": "C614H",
+    "nombre": "TEJEDA",
+    "indsinop": "60038",
+    "longitud": "153657W"
+  },
+  {
+    "latitud": "280003N",
+    "provincia": "LAS PALMAS",
+    "altitud": "10",
+    "indicativo": "C619I",
+    "nombre": "LA ALDEA DE SAN NICOLÁS",
+    "indsinop": "60027",
+    "longitud": "154850W"
+  },
+  {
+    "latitud": "280604N",
+    "provincia": "LAS PALMAS",
+    "altitud": "5",
+    "indicativo": "C619X",
+    "nombre": "AGAETE",
+    "indsinop": "",
+    "longitud": "154246W"
+  },
+  {
+    "latitud": "280004N",
+    "provincia": "LAS PALMAS",
+    "altitud": "13",
+    "indicativo": "C619Y",
+    "nombre": "LA ALDEA DE SAN NICOLÁS",
+    "indsinop": "60027",
+    "longitud": "154827W"
+  },
+  {
+    "latitud": "275536N",
+    "provincia": "LAS PALMAS",
+    "altitud": "1220",
+    "indicativo": "C623I",
+    "nombre": "SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+    "indsinop": "",
+    "longitud": "153559W"
+  },
+  {
+    "latitud": "275125N",
+    "provincia": "LAS PALMAS",
+    "altitud": "806",
+    "indicativo": "C625O",
+    "nombre": "SAN BARTOLOME TIRAJANA, LOMO PEDRO ALFONSO",
+    "indsinop": "",
+    "longitud": "153842W"
+  },
+  {
+    "latitud": "275432N",
+    "provincia": "LAS PALMAS",
+    "altitud": "318",
+    "indicativo": "C628B",
+    "nombre": "LA ALDEA DE SAN NICOLÁS, TASARTE",
+    "indsinop": "",
+    "longitud": "154612W"
+  },
+  {
+    "latitud": "274648N",
+    "provincia": "LAS PALMAS",
+    "altitud": "10",
+    "indicativo": "C629Q",
+    "nombre": "MOGÁN, PUERTO RICO",
+    "indsinop": "",
+    "longitud": "154240W"
+  },
+  {
+    "latitud": "274859N",
+    "provincia": "LAS PALMAS",
+    "altitud": "10",
+    "indicativo": "C629X",
+    "nombre": "MOGÁN, PUERTO",
+    "indsinop": "60036",
+    "longitud": "154551W"
+  },
+  {
+    "latitud": "275512N",
+    "provincia": "LAS PALMAS",
+    "altitud": "960",
+    "indicativo": "C635B",
+    "nombre": "SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+    "indsinop": "",
+    "longitud": "153427W"
+  },
+  {
+    "latitud": "274529N",
+    "provincia": "LAS PALMAS",
+    "altitud": "45",
+    "indicativo": "C639M",
+    "nombre": "MASPALOMAS, C. INSULAR TURISMO ",
+    "indsinop": "",
+    "longitud": "153432W"
+  },
+  {
+    "latitud": "274845N",
+    "provincia": "LAS PALMAS",
+    "altitud": "41",
+    "indicativo": "C639U",
+    "nombre": "SAN BARTOLOME TIRAJANA, EL MATORRAL",
+    "indsinop": "",
+    "longitud": "152711W"
+  },
+  {
+    "latitud": "275409N",
+    "provincia": "LAS PALMAS",
+    "altitud": "306",
+    "indicativo": "C648C",
+    "nombre": "AGÜIMES",
+    "indsinop": "",
+    "longitud": "152714W"
+  },
+  {
+    "latitud": "275915N",
+    "provincia": "LAS PALMAS",
+    "altitud": "344",
+    "indicativo": "C648N",
+    "nombre": "TELDE, CENTRO FORESTAL DORAMAS",
+    "indsinop": "",
+    "longitud": "152728W"
+  },
+  {
+    "latitud": "275504N",
+    "provincia": "LAS PALMAS",
+    "altitud": "24",
+    "indicativo": "C649I",
+    "nombre": "GRAN CANARIA AEROPUERTO",
+    "indsinop": "60030",
+    "longitud": "152343W"
+  },
+  {
+    "latitud": "275912N",
+    "provincia": "LAS PALMAS",
+    "altitud": "9",
+    "indicativo": "C649R",
+    "nombre": "TELDE, MELENARA",
+    "indsinop": "",
+    "longitud": "152240W"
+  },
+  {
+    "latitud": "280431N",
+    "provincia": "LAS PALMAS",
+    "altitud": "683",
+    "indicativo": "C656V",
+    "nombre": "TEROR",
+    "indsinop": "",
+    "longitud": "153250W"
+  },
+  {
+    "latitud": "280430N",
+    "provincia": "LAS PALMAS",
+    "altitud": "269",
+    "indicativo": "C658L",
+    "nombre": "LAS PALMAS DE G.C. (TAFIRA CMT)",
+    "indsinop": "",
+    "longitud": "152703W"
+  },
+  {
+    "latitud": "280441N",
+    "provincia": "LAS PALMAS",
+    "altitud": "269",
+    "indicativo": "C658X",
+    "nombre": "LAS PALMAS DE GRAN CANARIA, TAFIRA",
+    "indsinop": "",
+    "longitud": "152712W"
+  },
+  {
+    "latitud": "280523N",
+    "provincia": "LAS PALMAS",
+    "altitud": "55",
+    "indicativo": "C659H",
+    "nombre": "LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL",
+    "indsinop": "60029",
+    "longitud": "152458W"
+  },
+  {
+    "latitud": "280647N",
+    "provincia": "LAS PALMAS",
+    "altitud": "15",
+    "indicativo": "C659M",
+    "nombre": "LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA",
+    "indsinop": "60032",
+    "longitud": "152517W"
+  },
+  {
+    "latitud": "280356N",
+    "provincia": "LAS PALMAS",
+    "altitud": "900",
+    "indicativo": "C665T",
+    "nombre": "VALLESECO",
+    "indsinop": "",
+    "longitud": "153356W"
+  },
+  {
+    "latitud": "280540N",
+    "provincia": "LAS PALMAS",
+    "altitud": "352",
+    "indicativo": "C668V",
+    "nombre": "AGAETE - SUERTE ALTA",
+    "indsinop": "",
+    "longitud": "154030W"
+  },
+  {
+    "latitud": "280830N",
+    "provincia": "LAS PALMAS",
+    "altitud": "86",
+    "indicativo": "C669B",
+    "nombre": "ARUCAS",
+    "indsinop": "",
+    "longitud": "153024W"
+  },
+  {
+    "latitud": "274409N",
+    "provincia": "LAS PALMAS",
+    "altitud": "6",
+    "indicativo": "C689E",
+    "nombre": "MASPALOMAS",
+    "indsinop": "60037",
+    "longitud": "153545W"
+  },
+  {
+    "latitud": "291355N",
+    "provincia": "LAS PALMAS",
+    "altitud": "10",
+    "indicativo": "C839I",
+    "nombre": "TEGUISE",
+    "indsinop": "",
+    "longitud": "133007W"
+  },
+  {
+    "latitud": "291347N",
+    "provincia": "LAS PALMAS",
+    "altitud": "19",
+    "indicativo": "C839X",
+    "nombre": "LA GRACIOSA",
+    "indsinop": "60045",
+    "longitud": "133037W"
+  },
+  {
+    "latitud": "274908N",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "altitud": "32",
+    "indicativo": "C929I",
+    "nombre": "HIERRO AEROPUERTO",
+    "indsinop": "60001",
+    "longitud": "175320W"
+  }
+]
