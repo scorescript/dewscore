@@ -1,0 +1,14 @@
+(1) Formulacion de T_d con sensores reales de la XEMA: 47 estaciones
+    T_d (medias diarias) - T_d (media de valores semihorarios): media +0.501 C (rango de estaciones +0.19 a +0.87); enero +0.32, julio +0.73
+    DF: 0.549 (medias diarias) frente a 0.480 (semihorario), diferencia +0.0687; CFI: 0.675 frente a 0.614, diferencia +0.0611
+    Spearman entre estaciones DF A/B 0.991; CFI 0.991
+(2) Comparacion entre redes, todos los pares: 47 pares (distancia mediana 4.6 km, |dz| mediana 37 m)
+    DF: sesgo (XEMA-AEMET) +0.124, MAE 0.167, Spearman 0.511, Pearson 0.570
+    CFI: sesgo (XEMA-AEMET) +0.127, MAE 0.157, Spearman 0.550, Pearson 0.602
+    HHF: sesgo (XEMA-AEMET) +0.117, MAE 0.231, Spearman 0.312, Pearson 0.323
+    AWVC: sesgo (XEMA-AEMET) +0.266, MAE 0.445, Spearman 0.847, Pearson 0.846
+(2) Comparacion entre redes, pares cercanos (d <= 5 km y |dz| <= 50 m): 21 pares (distancia mediana 1.8 km, |dz| mediana 21 m)
+    DF: sesgo (XEMA-AEMET) +0.121, MAE 0.136, Spearman 0.784, Pearson 0.839
+    CFI: sesgo (XEMA-AEMET) +0.110, MAE 0.129, Spearman 0.851, Pearson 0.861
+    HHF: sesgo (XEMA-AEMET) +0.125, MAE 0.223, Spearman 0.522, Pearson 0.496
+    AWVC: sesgo (XEMA-AEMET) +0.150, MAE 0.386, Spearman 0.806, Pearson 0.850

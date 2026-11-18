@@ -1,0 +1,14 @@
+Estaciones con >=10 pares estacion-anio: 675
+DF: mediana pendiente/decada estacion +0.0139 ; ERA5 +0.0101 ; correlacion entre pendientes 0.106 ; mismo signo 59% ; significativas (MK, p<0.05) estacion 154 vs ERA5 16 de 675
+     entre las 45 estaciones significativas tras FDR: mismo signo en ERA5 58% ; mediana ERA5 +0.0068
+CFI: mediana pendiente/decada estacion +0.0137 ; ERA5 +0.0116 ; correlacion entre pendientes 0.141 ; mismo signo 59% ; significativas (MK, p<0.05) estacion 133 vs ERA5 39 de 675
+     entre las 19 estaciones significativas tras FDR: mismo signo en ERA5 53% ; mediana ERA5 +0.0068
+HHF: mediana pendiente/decada estacion -0.0298 ; ERA5 +0.0171 ; correlacion entre pendientes 0.039 ; mismo signo 40% ; significativas (MK, p<0.05) estacion 265 vs ERA5 60 de 675
+     entre las 155 estaciones significativas tras FDR: mismo signo en ERA5 39% ; mediana ERA5 +0.0137
+AWVC: mediana pendiente/decada estacion +0.3975 ; ERA5 +0.5048 ; correlacion entre pendientes 0.348 ; mismo signo 90% ; significativas (MK, p<0.05) estacion 381 vs ERA5 610 de 675
+     entre las 312 estaciones significativas tras FDR: mismo signo en ERA5 98% ; mediana ERA5 +0.5168
+Significancia de campo (permutacion conjunta de anios, 2000 permutaciones; no conserva la autocorrelacion temporal):
+  DF: observado 154 estaciones significativas (90 +, 64 -) con este test simplificado; bajo la hipotesis nula: media 30, percentil 95 81, maximo 222; p de campo 0.0070
+  CFI: observado 133 estaciones significativas (86 +, 47 -) con este test simplificado; bajo la hipotesis nula: media 30, percentil 95 84, maximo 241; p de campo 0.0130
+  HHF: observado 265 estaciones significativas (54 +, 211 -) con este test simplificado; bajo la hipotesis nula: media 28, percentil 95 88, maximo 277; p de campo 0.0010
+  AWVC: observado 381 estaciones significativas (371 +, 10 -) con este test simplificado; bajo la hipotesis nula: media 29, percentil 95 119, maximo 412; p de campo 0.0015

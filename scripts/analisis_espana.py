@@ -28,7 +28,18 @@ ISLAS = {"el_hierro": "El Hierro", "la_palma": "La Palma", "la_gomera": "La Gome
          "gran_canaria": "Gran Canaria", "fuerteventura": "Fuerteventura", "lanzarote": "Lanzarote"}
 SHORT = {"Comunidad de Madrid": "Madrid", "Comunidad Foral de Navarra": "Navarra", "Principado de Asturias": "Asturias",
          "Región de Murcia": "Murcia", "Ciudad de Ceuta": "Ceuta", "Ciudad de Melilla": "Melilla"}
-plt.rcParams.update({"font.size": 9, "axes.titlesize": 10, "figure.dpi": 100, "savefig.bbox": "tight"})
+plt.rcParams.update({"font.size": 9, "axes.titlesize": 10, "figure.dpi": 100, "savefig.bbox": "tight",
+                     "pdf.fonttype": 42, "ps.fonttype": 42, "font.family": "sans-serif",
+                     "font.sans-serif": ["Arial", "Helvetica", "Liberation Sans", "DejaVu Sans"]})
+
+
+def savefig_all(fig, name):
+    """PNG (preview), PDF (vector, fonts embedded) and EPS (vector) for journal submission."""
+    for ext in ("png", "pdf", "eps"):
+        try:
+            fig.savefig(FIG / f"{name}.{ext}", dpi=300 if ext == "png" else 600)
+        except Exception as e:  # EPS does not support transparency
+            print(f"[warning] {name}.{ext} not saved: {e}")
 
 
 def norm(s):
@@ -110,16 +121,15 @@ def mapa(tab, feats, can):
                 rr.append(Polygon(arr, closed=True))
                 if idx is not None and bool(tab["flag"].get(idx, False)):
                     hh.append(Polygon(arr, closed=True))
-        ax.add_collection(PatchCollection(rr, facecolor=fcs, edgecolor="none", linewidth=0))
-        ax.add_collection(PatchCollection(hh, facecolor="none", edgecolor="#555555", hatch="//////", linewidth=0))
+        ax.add_collection(PatchCollection(rr, facecolor=fcs, edgecolor="none", linewidth=0, rasterized=True))
+        ax.add_collection(PatchCollection(hh, facecolor="none", edgecolor="#555555", hatch="//////", linewidth=0, rasterized=True))
         ax.add_patch(Rectangle((-18.7 + DX, 27.3 + DY), 5.6, 2.5, fill=False, edgecolor="#888888", linewidth=0.6))
         ax.set_xlim(-10.5, 4.8); ax.set_ylim(33.6, 44.1); ax.set_aspect(1.28)
         ax.set_xticks([]); ax.set_yticks([]); ax.set_title(LAB[col])
         for s in ax.spines.values(): s.set_visible(False)
         fig.colorbar(plt.cm.ScalarMappable(norm=nm, cmap=cmap), ax=ax, fraction=0.04, pad=0.01, extend="both")
     fig.tight_layout()
-    for ext in ("png", "pdf"):
-        fig.savefig(FIG / f"mapa_espana.{ext}", dpi=200)
+    savefig_all(fig, "mapa_espana")
     plt.close(fig)
     return sin
 
@@ -202,15 +212,15 @@ def tablas(tab):
     out.append(f"municipios_para_guia (sin marca y >=10 años)={len(ok)}")
     # --- figuras
     Cf = C[C.datos >= 5]
-    fig, axs = plt.subplots(1, 3, figsize=(11.5, 3.4))
+    fig, axs = plt.subplots(1, 2, figsize=(9, 3.6))
     axs[0].hist(d.d_km, bins=40, color="#4c78a8"); axs[0].axvline(15, color="k", ls="--", lw=0.8); axs[0].set_xlabel("Distance to assigned station (km)"); axs[0].set_ylabel("Municipalities")
     axs[1].hist(d.dz_m.clip(-1000, 1000), bins=50, color="#4c78a8"); axs[1].axvline(-300, color="k", ls="--", lw=0.8); axs[1].axvline(300, color="k", ls="--", lw=0.8)
     axs[1].set_xlabel("Station altitude minus municipal mean altitude (m)")
-    Cs = Cf.sort_values("flag"); axs[2].barh(Cs.c, Cs.flag, color="#4c78a8"); axs[2].set_xlabel("Low representativeness (% of municipalities)")
-    axs[2].tick_params(axis="y", labelsize=7)
-    fig.tight_layout()
-    for ext in ("png", "pdf"): fig.savefig(FIG / f"representatividad_espana.{ext}", dpi=200)
-    plt.close(fig)
+    fig.tight_layout(); savefig_all(fig, "representatividad_a"); plt.close(fig)
+    fig, ax = plt.subplots(figsize=(6.5, 5.5))
+    Cs = Cf.sort_values("flag"); ax.barh(Cs.c, Cs.flag, color="#4c78a8"); ax.set_xlabel("Low representativeness (% of municipalities)")
+    ax.tick_params(axis="y", labelsize=8)
+    fig.tight_layout(); savefig_all(fig, "representatividad_b"); plt.close(fig)
     order = list(Cf.sort_values("DF").c)
     for suf, pair in (("a", IND[:2]), ("b", IND[2:])):
         fig, axs = plt.subplots(1, 2, figsize=(12, 5.6))
@@ -219,16 +229,17 @@ def tablas(tab):
             ax.boxplot(data, vert=False, tick_labels=order, showfliers=False, medianprops=dict(color="k"), boxprops=dict(color="#4c78a8"), whiskerprops=dict(color="#4c78a8"))
             ax.set_xlabel(LAB[k], fontsize=10); ax.tick_params(axis="y", labelsize=9); ax.tick_params(axis="x", labelsize=9)
         fig.tight_layout()
-        for ext in ("png", "pdf"): fig.savefig(FIG / f"comunidades_cajas_{suf}.{ext}", dpi=200)
+        savefig_all(fig, f"comunidades_cajas_{suf}")
         plt.close(fig)
-    fig, axs = plt.subplots(2, 2, figsize=(12, 9))
-    for ax, k in zip(axs.ravel(), IND):
-        st = ok.groupby("estacion").agg(v=(k, "first"), n=(k, "size"), prov=("isla", "first")).sort_values("v", ascending=False).head(12).iloc[::-1]
-        ax.barh([f"{nm.get(c, c)} ({p}) [{n}]" for c, p, n in zip(st.index, st.prov, st.n)], st.v, color="#4c78a8")
-        ax.set_xlabel(LAB[k], fontsize=10); ax.tick_params(axis="y", labelsize=8.5); ax.tick_params(axis="x", labelsize=9)
-    fig.tight_layout()
-    for ext in ("png", "pdf"): fig.savefig(FIG / f"rankings_espana.{ext}", dpi=200)
-    plt.close(fig)
+    for suf, pair in (("a", IND[:2]), ("b", IND[2:])):
+        fig, axs = plt.subplots(2, 1, figsize=(6.6, 6.6))
+        for ax, k in zip(axs, pair):
+            st = ok.groupby("estacion").agg(v=(k, "first"), n=(k, "size"), prov=("isla", "first")).sort_values("v", ascending=False).head(12).iloc[::-1]
+            ax.barh([f"{nm.get(c, c)} ({p}) [{n}]" for c, p, n in zip(st.index, st.prov, st.n)], st.v, color="#4c78a8")
+            ax.set_xlabel(LAB[k], fontsize=9); ax.tick_params(axis="y", labelsize=8); ax.tick_params(axis="x", labelsize=8.5)
+        fig.tight_layout()
+        savefig_all(fig, f"rankings_espana_{suf}")
+        plt.close(fig)
     (PAPER / "numbers_espana.txt").write_text("\n".join(out), encoding="utf-8")
     print("\n".join(out))
     return C
@@ -243,23 +254,27 @@ def sens_y_tend():
         fig, ax = plt.subplots(figsize=(7.5, max(4, 0.17 * len(s))))
         ax.barh(s.et, s.spearman, color="#4c78a8"); ax.set_xlim(max(0, s.spearman.min() - 0.02), 1.0); ax.set_xlabel("Spearman correlation with baseline ranking")
         ax.tick_params(axis="y", labelsize=6); fig.tight_layout()
-        for ext in ("png", "pdf"): fig.savefig(FIG / f"sensibilidad_espana.{ext}", dpi=200)
+        savefig_all(fig, f"sensibilidad_espana")
         plt.close(fig)
     f = HERE / "tendencias_estacion.csv"
     if f.exists():
         t = pd.read_csv(f); ks = ["DF", "CFI", "HHF", "AWVC_g_m3"]
-        fig, axs = plt.subplots(2, 2, figsize=(9, 6.6))
-        for ax, k in zip(axs.ravel(), ks):
-            g = t[t.indicador == k]; ax.hist(g.sen_por_decada, bins=40, color="#4c78a8"); ax.axvline(0, color="k", lw=0.8)
-            ax.set_xlabel(f"Sen slope of {k.replace('_g_m3', '')} (per decade)")
-        axs[0, 0].set_ylabel("Stations"); axs[1, 0].set_ylabel("Stations"); fig.tight_layout()
-        for ext in ("png", "pdf"): fig.savefig(FIG / f"tendencias_espana.{ext}", dpi=200)
-        plt.close(fig)
+        for suf, pair in (("a", ks[:2]), ("b", ks[2:])):
+            fig, axs = plt.subplots(1, 2, figsize=(6.6, 2.9))
+            for ax, k in zip(axs, pair):
+                g = t[t.indicador == k]; ax.hist(g.sen_por_decada, bins=40, color="#4c78a8"); ax.axvline(0, color="k", lw=0.8)
+                ax.set_xlabel(f"Sen slope of {k.replace('_g_m3', '')} (per decade)", fontsize=9); ax.tick_params(labelsize=8.5)
+            axs[0].set_ylabel("Stations", fontsize=9); fig.tight_layout()
+            savefig_all(fig, f"tendencias_espana_{suf}")
+            plt.close(fig)
 
 
 if __name__ == "__main__":
+    import sys
     tab, feats, can = cargar()
-    mapa(tab, feats, can)
-    tablas(tab)
-    sens_y_tend()
+    if "sin_mapa" not in sys.argv:
+        mapa(tab, feats, can)
+    if "solo_mapa" not in sys.argv:
+        tablas(tab)
+        sens_y_tend()
     print("Listo. Figuras en", FIG, "| tablas en", TAB)

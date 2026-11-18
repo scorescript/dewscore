@@ -1,0 +1,4 @@
+Estaciones: 47
+Media de las lecturas - (tmin+tmax)/2: -0.29 C
+Td con tmed = media de lecturas (A) menos Td semihorario: +0.50 C; DF +0.069; CFI +0.061
+Td con tmed = (tmin+tmax)/2 (definicion AEMET, C) menos Td semihorario: +0.79 C; DF +0.100; CFI +0.081

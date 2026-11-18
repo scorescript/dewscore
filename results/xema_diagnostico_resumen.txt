@@ -1,0 +1,5 @@
+Pares: 21; dias comparados por par (mediana) 3507
+Diferencia media XEMA - AEMET (por dia, media de pares): tmed -0.83 C, tmin -0.69 C, HR media +4.00 %, HR max +1.62 %, Td_A +0.15 C
+Coincidencia dia a dia del evento DF (tmin<=Td): 0.796; frecuencia DF en dias comunes: AEMET 0.405, XEMA 0.536
+En AEMET, tmed - (tmin+tmax)/2 = -0.00 C
+Correlacion de tmin entre redes segun desfase de dias de XEMA (-1, 0, +1): -1: 0.935, 0: 0.992, 1: 0.934

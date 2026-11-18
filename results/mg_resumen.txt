@@ -1,0 +1,13 @@
+Año 2023. (1) Formulacion de T_d con sensores de MeteoGalicia: 32 estaciones
+    T_d (tmed = media horaria) - T_d horario: +0.33 C (rango +0.07 a +0.77); con tmed = (tmin+tmax)/2: +0.79 C
+    DF +0.041 (A) y +0.082 (C); CFI +0.026 (A) y +0.050 (C); Spearman DF A/B 0.989
+(2) Comparacion entre redes, todos los pares: 32 pares (distancia mediana 3.3 km, |dz| mediana 33 m)
+    DF: sesgo (MG-AEMET) +0.101, MAE 0.166, Spearman 0.726
+    CFI: sesgo (MG-AEMET) +0.066, MAE 0.109, Spearman 0.734
+    HHF: sesgo (MG-AEMET) +0.176, MAE 0.319, Spearman 0.093
+    AWVC: sesgo (MG-AEMET) +0.549, MAE 0.676, Spearman 0.798
+(2) Comparacion entre redes, pares cercanos (d <= 5 km y |dz| <= 50 m): 17 pares (distancia mediana 2.5 km, |dz| mediana 20 m)
+    DF: sesgo (MG-AEMET) +0.144, MAE 0.207, Spearman 0.784
+    CFI: sesgo (MG-AEMET) +0.095, MAE 0.135, Spearman 0.782
+    HHF: sesgo (MG-AEMET) +0.253, MAE 0.403, Spearman -0.090
+    AWVC: sesgo (MG-AEMET) +0.694, MAE 0.806, Spearman 0.571

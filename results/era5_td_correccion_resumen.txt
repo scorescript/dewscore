@@ -1,0 +1,16 @@
+Estaciones: 675; dias: 4438125
+Delta = Td_B - Td_A (todas las estaciones y dias): media -0.493 C, desviacion 0.528; Td_A - Td_B = +0.493
+  mes 1: Td_A - Td_B medio +0.192
+  mes 4: Td_A - Td_B medio +0.473
+  mes 7: Td_A - Td_B medio +0.891
+  mes 10: Td_A - Td_B medio +0.444
+[ajuste mitad 1, evaluacion mitad 2] estaciones de ajuste 337, de evaluacion 338; RMSE diario de delta sin correccion 0.731 -> con correccion 0.224
+   DF: sesgo medio (frente al horario) +0.0474 -> -0.0022; MAE por estacion 0.0474 -> 0.0045; Spearman con horario 0.9905 -> 0.9993
+   CFI: sesgo medio (frente al horario) +0.0521 -> -0.0028; MAE por estacion 0.0521 -> 0.0059; Spearman con horario 0.9885 -> 0.9992
+[ajuste mitad 2, evaluacion mitad 1] estaciones de ajuste 338, de evaluacion 337; RMSE diario de delta sin correccion 0.713 -> con correccion 0.218
+   DF: sesgo medio (frente al horario) +0.0460 -> -0.0008; MAE por estacion 0.0460 -> 0.0048; Spearman con horario 0.9939 -> 0.9994
+   CFI: sesgo medio (frente al horario) +0.0513 -> -0.0024; MAE por estacion 0.0513 -> 0.0061; Spearman con horario 0.9932 -> 0.9994
+Coeficientes del modelo final (1, tmed, tmin, tmax, hrMedia, hrMax, hrMin, Td_A, tmax-tmin, hrMax-hrMin, sen, cos): 4.0228, -0.1748, -1375.6133, 1375.6162, -0.0136, -176.1389, 176.1167, 0.1725, -1375.6309, 176.1051, -0.0061, -0.0234
+Aplicacion a AEMET: 4018311 dias de 725 estaciones; correccion media del Td -0.687 C
+   DF: nivel medio baseline 0.400 -> corregido 0.341 (cambio -0.0588); Spearman baseline-corregido 0.9942; coincidencia del 10% superior 0.92
+   CFI: nivel medio baseline 0.523 -> corregido 0.459 (cambio -0.0641); Spearman baseline-corregido 0.9940; coincidencia del 10% superior 0.93

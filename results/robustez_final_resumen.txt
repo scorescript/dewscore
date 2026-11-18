@@ -1,0 +1,13 @@
+(3) Estacion-anios con HHF>0.95: 46 de 11307; estaciones afectadas: 12 de 725
+    HHF sin los estacion-anio >0.95 vs base: Spearman 1.000 (n=725); coincidencia del 10% superior 1.00
+    HHF sin las estaciones afectadas (ranking del resto) vs base: Spearman 1.000 (n=713); posiciones top-10% que ocupaban las afectadas: 8 de 72
+(5) Tendencias por indicador sobre 725 estaciones:
+  DF: MK original p<0.05: 165 (23%) | con correccion de autocorrelacion: 158 (22%) | tras control FDR 5%: 51 | estaciones con ruptura (Pettitt p<0.05): 117 (16%) | sin rupturas, p_corr<0.05: 65 de 608 (11%); mediana Sen/decada todas +0.0125, sin rupturas +0.0108
+      significativas tras FDR: 31 positivas y 20 negativas
+  CFI: MK original p<0.05: 152 (21%) | con correccion de autocorrelacion: 147 (20%) | tras control FDR 5%: 21 | estaciones con ruptura (Pettitt p<0.05): 102 (14%) | sin rupturas, p_corr<0.05: 65 de 623 (10%); mediana Sen/decada todas +0.0135, sin rupturas +0.0113
+      significativas tras FDR: 12 positivas y 9 negativas
+  HHF: MK original p<0.05: 292 (40%) | con correccion de autocorrelacion: 275 (38%) | tras control FDR 5%: 167 | estaciones con ruptura (Pettitt p<0.05): 211 (29%) | sin rupturas, p_corr<0.05: 102 de 514 (20%); mediana Sen/decada todas -0.0273, sin rupturas -0.0175
+      significativas tras FDR: 28 positivas y 139 negativas
+  AWVC: MK original p<0.05: 407 (56%) | con correccion de autocorrelacion: 407 (56%) | tras control FDR 5%: 335 | estaciones con ruptura (Pettitt p<0.05): 180 (25%) | sin rupturas, p_corr<0.05: 230 de 545 (42%); mediana Sen/decada todas +0.4050, sin rupturas +0.3340
+      significativas tras FDR: 327 positivas y 8 negativas
+  (por azar se esperaria ~5% de estaciones con p<0.05)

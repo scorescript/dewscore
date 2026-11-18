@@ -1,0 +1,12 @@
+Estaciones analizadas: 52
+Dias por estacion: ~6575
+Sesgo diario Td_A - Td_B (grados C): media de estaciones +0.503 (rango +0.045 a +0.877); desviacion tipica diaria media 0.434; p5 medio +0.039, p95 medio +1.349
+Sesgo medio en enero +0.203 y en julio +0.913
+DF multianual A-B: media +0.0397, MAE 0.0397, max |dif| 0.0847; Spearman A vs B entre estaciones 0.9885
+DF anual (estacion-anio) A-B: MAE 0.0397, RMSE 0.0470, n=936
+CFI multianual A-B: media +0.0505, MAE 0.0505, max |dif| 0.1021; Spearman A vs B entre estaciones 0.9787
+CFI anual (estacion-anio) A-B: MAE 0.0505, RMSE 0.0585, n=936
+banda 200-600 (n=13): sesgo Td +0.554; DF A-B +0.0413; CFI A-B +0.0510
+banda 600-1000 (n=12): sesgo Td +0.569; DF A-B +0.0401; CFI A-B +0.0500
+banda <200 (n=13): sesgo Td +0.363; DF A-B +0.0273; CFI A-B +0.0367
+banda >1000 (n=14): sesgo Td +0.509; DF A-B +0.0493; CFI A-B +0.0633

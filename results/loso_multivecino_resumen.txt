@@ -1,0 +1,8 @@
+Estaciones evaluadas: 683 de 725
+DF: MAE k=1 0.141, k=2 0.127, k=3 0.124, k=5 0.122; media nacional 0.172 | habilidad k=1 0.18, k=3 0.28
+CFI: MAE k=1 0.133, k=2 0.122, k=3 0.119, k=5 0.117; media nacional 0.176 | habilidad k=1 0.24, k=3 0.32
+HHF: MAE k=1 0.173, k=2 0.157, k=3 0.153, k=5 0.151; media nacional 0.189 | habilidad k=1 0.08, k=3 0.19
+AWVC: MAE k=1 0.526, k=2 0.461, k=3 0.460, k=5 0.462; media nacional 1.454 | habilidad k=1 0.64, k=3 0.68
+RMSE k=1 / k=3: DF 0.181/0.159; CFI 0.171/0.151; HHF 0.233/0.204; AWVC 0.815/0.756
+Intervalos 80%: DF semiancho |dz|<300 m 0.219, >=300 m 0.317, cobertura fuera de muestra 80%; CFI semiancho |dz|<300 m 0.214, >=300 m 0.272, cobertura fuera de muestra 79%; HHF semiancho |dz|<300 m 0.280, >=300 m 0.481, cobertura fuera de muestra 79%; AWVC semiancho |dz|<300 m 0.754, >=300 m 1.167, cobertura fuera de muestra 80%
+Intervalos 90%: DF semiancho |dz|<300 m 0.288, >=300 m 0.405, cobertura fuera de muestra 89%; CFI semiancho |dz|<300 m 0.273, >=300 m 0.369, cobertura fuera de muestra 90%; HHF semiancho |dz|<300 m 0.374, >=300 m 0.603, cobertura fuera de muestra 90%; AWVC semiancho |dz|<300 m 0.990, >=300 m 1.796, cobertura fuera de muestra 90%

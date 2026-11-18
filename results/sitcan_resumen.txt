@@ -1,0 +1,8 @@
+Año 2023. (1) SITCAN, T_d medido por el sensor: 46 estaciones
+    T_d (tmed = media 10 min) - T_d sensor: +0.18 C (rango -0.03 a +1.26); con tmed = (tmin+tmax)/2: +0.51 C
+    DF +0.003 (A) y +0.034 (C); CFI +0.006 (A) y +0.055 (C); Spearman DF A/B 0.999
+(2) Comparacion con AEMET: 29 pares (d <= 10 km; distancia mediana 6.1 km; sin control de altitud)
+    DF: sesgo (SITCAN-AEMET) -0.029, MAE 0.114, Spearman 0.395
+    CFI: sesgo (SITCAN-AEMET) -0.036, MAE 0.136, Spearman 0.531
+    HHF: sesgo (SITCAN-AEMET) -0.061, MAE 0.152, Spearman 0.394
+    AWVC: sesgo (SITCAN-AEMET) +0.161, MAE 1.316, Spearman 0.484

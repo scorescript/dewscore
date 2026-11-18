@@ -1,0 +1,13 @@
+Estaciones: 675; pares estacion-anio: 10558
+DF medias multianuales (entre estaciones): Spearman 0.649, Pearson 0.699, sesgo ERA5-estacion -0.049, MAE 0.122, RMSE 0.165
+CFI medias multianuales (entre estaciones): Spearman 0.679, Pearson 0.722, sesgo ERA5-estacion -0.013, MAE 0.119, RMSE 0.161
+HHF medias multianuales (entre estaciones): Spearman 0.510, Pearson 0.591, sesgo ERA5-estacion -0.016, MAE 0.146, RMSE 0.195
+AWVC medias multianuales (entre estaciones): Spearman 0.922, Pearson 0.917, sesgo ERA5-estacion +0.256, MAE 0.513, RMSE 0.707
+DF anomalias anuales (dentro de estacion): Pearson 0.487
+CFI anomalias anuales (dentro de estacion): Pearson 0.541
+HHF anomalias anuales (dentro de estacion): Pearson 0.270
+AWVC anomalias anuales (dentro de estacion): Pearson 0.722
+DF: coincidencia del 10% superior (estacion vs ERA5): 0.43
+CFI: coincidencia del 10% superior (estacion vs ERA5): 0.48
+HHF: coincidencia del 10% superior (estacion vs ERA5): 0.45
+AWVC: coincidencia del 10% superior (estacion vs ERA5): 0.72
